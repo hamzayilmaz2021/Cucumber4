@@ -20,17 +20,6 @@ Feature: Bir kullanıcı olarak ana sayfaya girdiğimde, sayfanin sağ üst böl
     Then kullanici uzerinde bulundugu sayfanin urlinde "/add_ilan" ifadesini dogrular
 
 
-
-
-
-
-
-
-
-
-
-
-
     #Neden test set olusturuyoruz o olmasada olur mu, test seti duymamistim
 
     # USER STORY (200)
@@ -46,4 +35,3 @@ Feature: Bir kullanıcı olarak ana sayfaya girdiğimde, sayfanin sağ üst böl
     # 2. Pre-Condition oluşturmak ve Test Case'lere bağlamak
     # 3. Test Set oluşturmak ( Eğer kullanacağımız daha önceden oluşturulan test set varsa, onu kullanabiliriz. )
     # 4. Test Plan İçerisine Test Set Eklenmesi ( Zaten ekliyse, sadece test case execute edilir.)
-

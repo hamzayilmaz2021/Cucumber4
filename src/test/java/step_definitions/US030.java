@@ -71,16 +71,15 @@ public class US030 {
 // 2 haftalık sprint
 // 1 tester = 10 gün çalışacak
 // 5 tester = 50 günlük çalışma
-// 5 tane testerin alabileceği en fazla user story toplam 50 puandan oluşmalıdır.
-
-
-
-
-
-
-
-
-
+//// 5 tane testerin alabileceği en fazla user story toplam 50 puandan oluşmalıdır.
+//
+//
+//Ajanda Egzersizi : İşe yeni başlayacak bir yazılım test uzmanına bir sprint boyunca neler yapılacağını dokümante ederek anlatınız.
+//Sunum Egzersizi : Proje takımınız içerisindeki belirlenen kişiye bir tane mock interview yapınız.
+//Technical Assignment : Basit bir tane test plan dökümantasyon hazırlayınız.
+//
+//
+//
 
 
 

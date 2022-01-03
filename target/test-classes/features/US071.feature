@@ -10,3 +10,8 @@ Feature: US_071	Bir kullanıcı olarak "/api/user/account/logout" sayfasına "ge
   Scenario: kullanici gelen cevap icerisindeki sonuc:true ifadesinin varligini dogrular
     Given kullanici "/user/account/logout" sayfasina get tipinde baglanir
     Then kullanici gelen cevap icerisinde sonuc ozelliginin degerinin true oldugunu dogrular
+
+
+  Behavioral Egzersiz 1 (Teknik kısımların ayrıntılarına girmeden, daha çok iş arkadaşlarınız ile sizin durumunuzu anlatan bir günlük iş hayatınızı özetleyiniz(Doküman))
+  Ajanda Egzersizi 2 (İşe yeni başlayacak bir yazılım test uzmanına Jira kullanımını dökümante ederek anlatınız(Doküman))
+  Sunum Egzersizi 3 (Projedeki diğer arkadaşlarınız ile de paylaşılacak şekilde API test methodlarını anlattığınız bir video kaydı yapınız(Video))

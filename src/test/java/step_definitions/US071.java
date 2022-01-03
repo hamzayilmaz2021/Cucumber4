@@ -26,11 +26,23 @@ public class US071 {
     @Then("kullanici durum kodunun {int} oldugunu dogrular")
     public void kullaniciDurumKodununOldugunuDogrular(int durumKodu) {
         Assert.assertEquals(response.getStatusCode(),durumKodu);
+
+
     }
 
     @Then("kullanici gelen cevap icerisinde sonuc ozelliginin degerinin true oldugunu dogrular")
     public void kullaniciGelenCevapIcerisindeSonucOzelligininDegerininTrueOldugunuDogrular() {
         boolean gelenCevap = response.jsonPath().getBoolean("sonuc");
         Assert.assertEquals(true,gelenCevap);
+
+
+
     }
 }
+
+//  API testinde tam olarak nelerin doğrulanması gerekiyor?
+//  1- Verilerin doğruluğunu
+//  2- HTTP Durum kodunun doğrulunu
+//  3- Hata kodları
+//  4- Gelen cevabın süresi (tepki süresi)
+//  5- Yetkilendirme (401)

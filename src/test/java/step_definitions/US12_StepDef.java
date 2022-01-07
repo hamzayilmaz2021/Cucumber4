@@ -12,7 +12,7 @@ public class US12_StepDef {
 
     @Given("user goes to {string} page")
     public void userGoesToPage(String url) {
-        Driver.getDriver().get("http://test.kese.nl/login");
+        Driver.getDriver().get(url);
     }
 
     @Then("user asserts sifremi unuttum is visible and enabled")

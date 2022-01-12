@@ -8,4 +8,8 @@ public class LoginPage extends BasePage{
     @FindBy ( linkText = "Şifremi Unuttum")
     public WebElement siremiUnuttumLink;
 
+    public void method(){
+
+    }
+
 }

@@ -8,8 +8,13 @@ public class LoginPage extends BasePage{
     @FindBy ( linkText = "Şifremi Unuttum")
     public WebElement siremiUnuttumLink;
 
-    public void method(){
+    @FindBy ( name = "email" )
+    public WebElement emailInput;
 
-    }
+    @FindBy ( name = "sifre")
+    public WebElement sifreInput;
+
+    @FindBy ( xpath = "//button[@type='submit' and contains(text(), 'Giriş Yap')]")
+    public WebElement girisYapButton;
 
 }

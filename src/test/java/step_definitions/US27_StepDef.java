@@ -51,9 +51,13 @@ public class US27_StepDef {
         signupPage.kayitButton.click();
     }
 
-    @And("user types {string} to the email input on the login page")
-    public void userTypesToTheEmailInputOnTheLoginPage(String email) {
-        loginPage.emailInput.sendKeys( email);
+    @And("user types {string} to the email input with {string} on the login page")
+    public void userTypesToTheEmailInputOnTheLoginPage(String email, String tip) {
+        if(tip.equalsIgnoreCase("RandomNumber")){
+            loginPage.emailInput.sendKeys(date.getTime() + email);
+        }else{
+            loginPage.emailInput.sendKeys(email);
+        }
     }
 
     @And("user types {string} to the password input on the login page")

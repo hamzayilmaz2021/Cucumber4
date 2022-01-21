@@ -23,11 +23,11 @@ public class US53_StepDef {
         newHomePage.ilerleButton.click();
     }
 
-    @And("user chooses an address from the list in new home step two page")
-    public void userChoosesAnAddressFromTheListInNewHomeStepTwoPage() {
-        newHomePage.step2_AddressInput.sendKeys("London"); // Keys.ENTER
+    @And("user chooses {string} an address from the list in new home step two page")
+    public void userChoosesAnAddressFromTheListInNewHomeStepTwoPage(String adres) {
+        newHomePage.step2_AddressInput.sendKeys(adres); // Keys.ENTER
         BrowserUtilities.waitFor(3);
-        Driver.getDriver().findElement(By.id("react-select-2-option-0")).click();
+        Driver.getDriver().findElement(By.cssSelector("[id$='-option-0']")).click();
 
         // Bir webelementin içeriği, HTML olarak seleniumda nasıl görüntülenebilir ?
         /*String icerik = newHomePage.step2_AddressList.getAttribute("innerHTML");
@@ -48,9 +48,9 @@ public class US53_StepDef {
         newHomePage.step2_CheckBox.click();
     }
 
-    @And("user types usage area to the input on the new home step three page")
-    public void userTypesUsageAreaToTheInputOnTheNewHomeStepThreePage() {
-        newHomePage.step3_UsageAreaInput.sendKeys("120");
+    @And("user types usage area as {string} to the input on the new home step three page")
+    public void userTypesUsageAreaAsToTheInputOnTheNewHomeStepThreePage(String sayi) {
+        newHomePage.step3_UsageAreaInput.sendKeys(sayi);
     }
 
     @And("user clicks on the increment buttons on the new home step three page")
@@ -70,9 +70,9 @@ public class US53_StepDef {
         newHomePage.step5_TvOption.click();
     }
 
-    @And("user types a description to the input on the new home step six page")
-    public void userTypesADescriptionToTheInputOnTheNewHomeStepSixPage() {
-        newHomePage.step6_DescInput.sendKeys("Merhabalar");
+    @And("user types a description as {string} to the input on the new home step six page")
+    public void userTypesADescriptionAsToTheInputOnTheNewHomeStepSixPage(String aciklama) {
+        newHomePage.step6_DescInput.sendKeys(aciklama);
     }
 
     @And("user clicks to the lunapark on the new home step seven page")

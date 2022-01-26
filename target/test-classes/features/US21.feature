@@ -1,5 +1,6 @@
 Feature: US_021	Bir kullanıcı olarak "/signup" sayfasına girdiğimde, kullanıcı kaydı oluşturmak için aynı şifreyi 2 kez girmeliyim.
 
+  @smoketest
   Scenario: TC_001_US_021 and TC_002_US_021
     Given user goes to "http://test.kese.nl/signup" page
     And user types "hamza" to the username input on the signup page

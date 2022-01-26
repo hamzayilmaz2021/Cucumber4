@@ -1,0 +1,482 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2022-01-26T18:59:37.683Z",
+        "before": [
+          {
+            "result": {
+              "duration": 9817000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "step_definitions.Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 3,
+        "name": "TC_001_US_027 I should be able to login with the data used for registration.",
+        "description": "",
+        "id": "us-027-bir-kullanıcı-olarak-\"/signup\"-sayfasına-girdiğimde--sisteme-kayıt-olabilmeli-ve-oluşturduğum-kayıt-ile-sisteme-giriş-yapabilmeliyim.;tc-001-us-027-i-should-be-able-to-login-with-the-data-used-for-registration.",
+        "after": [
+          {
+            "result": {
+              "duration": 4092000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "step_definitions.Hooks.tearDown(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 2240000000,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "user goes to \"http://test.kese.nl/signup\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"http://test.kese.nl/signup\"",
+                  "offset": 13
+                }
+              ],
+              "location": "step_definitions.US12_StepDef.userGoesToPage(java.lang.String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 673000000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user types \"kalem\" to the username input on the signup page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"kalem\"",
+                  "offset": 11
+                }
+              ],
+              "location": "step_definitions.US27_StepDef.userTypesToTheUsernameInputOnTheSignupPage(java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 248000000,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user types \"kalem@gmail.com\" to the email input on the signup page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"kalem@gmail.com\"",
+                  "offset": 11
+                }
+              ],
+              "location": "step_definitions.US27_StepDef.userTypesToTheEmailInputOnTheSignupPage(java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 236000000,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "user types \"1234\" to the password input on the signup page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"1234\"",
+                  "offset": 11
+                }
+              ],
+              "location": "step_definitions.US27_StepDef.userTypesToThePasswordInputOnTheSignupPage(java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 198000000,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "user types \"1234\" to the repassword input on the signup page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"1234\"",
+                  "offset": 11
+                }
+              ],
+              "location": "step_definitions.US27_StepDef.userTypesToTheRepasswordInputOnTheSignupPage(java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 119000000,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "user clicks to the checkbox on signup page",
+            "match": {
+              "location": "step_definitions.US27_StepDef.userClicksToTheCheckboxOnSignupPage()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 156000000,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "user clicks to the kayit ol button on the signup page",
+            "match": {
+              "location": "step_definitions.US27_StepDef.userClicksToTheKayitOlButtonOnTheSignupPage()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3735000000,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "user types \"kalem@gmail.com\" to the email input with \"RandomNumber\" on the login page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"kalem@gmail.com\"",
+                  "offset": 11
+                },
+                {
+                  "val": "\"RandomNumber\"",
+                  "offset": 53
+                }
+              ],
+              "location": "step_definitions.US27_StepDef.userTypesToTheEmailInputOnTheLoginPage(java.lang.String,java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 206000000,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "user types \"1234\" to the password input on the login page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"1234\"",
+                  "offset": 11
+                }
+              ],
+              "location": "step_definitions.US27_StepDef.userTypesToThePasswordInputOnTheLoginPage(java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 5224000000,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "user clicks to the giris yap button one the login page",
+            "match": {
+              "location": "step_definitions.US27_StepDef.userClicksToTheGirisYapButtonOneTheLoginPage()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 36000000,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "user verifies the page url is \"http://test.kese.nl/\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"http://test.kese.nl/\"",
+                  "offset": 30
+                }
+              ],
+              "location": "step_definitions.US27_StepDef.userVerifiesThePageUrlIs(java.lang.String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@smoketest"
+          }
+        ]
+      }
+    ],
+    "name": "US_027\tBir kullanıcı olarak \"/signup\" sayfasına girdiğimde, sisteme kayıt olabilmeli ve oluşturduğum kayıt ile sisteme giriş yapabilmeliyim.",
+    "description": "",
+    "id": "us-027-bir-kullanıcı-olarak-\"/signup\"-sayfasına-girdiğimde--sisteme-kayıt-olabilmeli-ve-oluşturduğum-kayıt-ile-sisteme-giriş-yapabilmeliyim.",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/features/US027.feature",
+    "tags": []
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2022-01-26T19:00:04.955Z",
+        "before": [
+          {
+            "result": {
+              "duration": 3709000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "step_definitions.Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 4,
+        "name": "TC_001_US_021 and TC_002_US_021",
+        "description": "",
+        "id": "us-021-bir-kullanıcı-olarak-\"/signup\"-sayfasına-girdiğimde--kullanıcı-kaydı-oluşturmak-için-aynı-şifreyi-2-kez-girmeliyim.;tc-001-us-021-and-tc-002-us-021",
+        "after": [
+          {
+            "result": {
+              "duration": 3951000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "step_definitions.Hooks.tearDown(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 2633000000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user goes to \"http://test.kese.nl/signup\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"http://test.kese.nl/signup\"",
+                  "offset": 13
+                }
+              ],
+              "location": "step_definitions.US12_StepDef.userGoesToPage(java.lang.String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 427000000,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user types \"hamza\" to the username input on the signup page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"hamza\"",
+                  "offset": 11
+                }
+              ],
+              "location": "step_definitions.US27_StepDef.userTypesToTheUsernameInputOnTheSignupPage(java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 357000000,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "user types \"hamza@gmail.com\" to the email input on the signup page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"hamza@gmail.com\"",
+                  "offset": 11
+                }
+              ],
+              "location": "step_definitions.US27_StepDef.userTypesToTheEmailInputOnTheSignupPage(java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 334000000,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "user types \"1234\" to the password input on the signup page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"1234\"",
+                  "offset": 11
+                }
+              ],
+              "location": "step_definitions.US27_StepDef.userTypesToThePasswordInputOnTheSignupPage(java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 361000000,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "user types \"12345678\" to the repassword input on the signup page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"12345678\"",
+                  "offset": 11
+                }
+              ],
+              "location": "step_definitions.US27_StepDef.userTypesToTheRepasswordInputOnTheSignupPage(java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 172000000,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "user clicks to the checkbox on signup page",
+            "match": {
+              "location": "step_definitions.US27_StepDef.userClicksToTheCheckboxOnSignupPage()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 185000000,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "user clicks to the kayit ol button on the signup page",
+            "match": {
+              "location": "step_definitions.US27_StepDef.userClicksToTheKayitOlButtonOnTheSignupPage()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 168000000,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "user verifies \"Şifreler birbiri ile uyuşmuyor.\" is visible",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Şifreler birbiri ile uyuşmuyor.\"",
+                  "offset": 14
+                }
+              ],
+              "location": "step_definitions.US22_StepDef.userVerifiesIsVisible(java.lang.String)"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 216000000,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "user types \"1234\" to the password input on the signup page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"1234\"",
+                  "offset": 11
+                }
+              ],
+              "location": "step_definitions.US27_StepDef.userTypesToThePasswordInputOnTheSignupPage(java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 266000000,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "user types \"1234\" to the repassword input on the signup page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"1234\"",
+                  "offset": 11
+                }
+              ],
+              "location": "step_definitions.US27_StepDef.userTypesToTheRepasswordInputOnTheSignupPage(java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 144000000,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "user clicks to the kayit ol button on the signup page",
+            "match": {
+              "location": "step_definitions.US27_StepDef.userClicksToTheKayitOlButtonOnTheSignupPage()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 756000000,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "user verifies \"Kaydınız oluşturuldu, giriş yapma sayfasına yönlendiriliyorsunuz.\" is visible",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Kaydınız oluşturuldu, giriş yapma sayfasına yönlendiriliyorsunuz.\"",
+                  "offset": 14
+                }
+              ],
+              "location": "step_definitions.US22_StepDef.userVerifiesIsVisible(java.lang.String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@smoketest"
+          }
+        ]
+      }
+    ],
+    "name": "US_021\tBir kullanıcı olarak \"/signup\" sayfasına girdiğimde, kullanıcı kaydı oluşturmak için aynı şifreyi 2 kez girmeliyim.",
+    "description": "",
+    "id": "us-021-bir-kullanıcı-olarak-\"/signup\"-sayfasına-girdiğimde--kullanıcı-kaydı-oluşturmak-için-aynı-şifreyi-2-kez-girmeliyim.",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/features/US21.feature",
+    "tags": []
+  }
+]

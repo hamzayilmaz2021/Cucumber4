@@ -7,10 +7,14 @@ import org.openqa.selenium.support.FindBy;
 import java.util.List;
 
 public class NewHomePage extends BasePage{
+
+    @FindBy (xpath = "//div[@class='navbar-nav me-auto fs-3']")
+    public WebElement stepStatus;
+
     @FindBy (xpath = "//*[text() = 'Müstakil Ev']/../../div")
     public WebElement step1_MustakilEvOption;
 
-    @FindBy (xpath = "//*[text() = 'Apartaman Dairesi']/../../div")
+    @FindBy (xpath = "//*[text() = 'Apartman Dairesi']/../../div")
     public WebElement step1_ApartmanDairesiOption;
 
     @FindBy (xpath = "//*[text() = 'Stüdyo Daire']/../../div")

@@ -1,5 +1,5 @@
-@smoketest
 Feature: US_027	Bir kullanıcı olarak "/signup" sayfasına girdiğimde, sisteme kayıt olabilmeli ve oluşturduğum kayıt ile sisteme giriş yapabilmeliyim.
+  @smoketest
   Scenario: TC_001_US_027 I should be able to login with the data used for registration.
     Given user goes to "http://test.kese.nl/signup" page
     And user types "kalem" to the username input on the signup page

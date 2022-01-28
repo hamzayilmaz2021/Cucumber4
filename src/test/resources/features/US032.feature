@@ -24,6 +24,3 @@ Feature: US_032	Bir kullanıcı olarak "Ev Değişimi" ilan oluşturma sayfasın
       | Müstakil Ev      |
       | Apartman Dairesi |
       | Stüdyo Daire     |
-
-
-

@@ -14,17 +14,17 @@ public class Hooks {
     @Before
     public void setUp(){
 
-        Driver.getDriver().manage().window().maximize();
-        Driver.getDriver().manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+        //Driver.getDriver().manage().window().maximize();
+       // Driver.getDriver().manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
     }
     @After
     public void tearDown(Scenario scenario){
-        if (scenario.isFailed()){
+        /*if (scenario.isFailed()){
             final byte[] screenShot = ((TakesScreenshot)Driver.getDriver()).getScreenshotAs(OutputType.BYTES);
             scenario.attach(screenShot,"image/png", scenario.getName()+"_screenshot");
 
         }
         BrowserUtilities.waitFor(3);
-        Driver.closeDriver();
+        Driver.closeDriver();*/
     }
 }

@@ -6,7 +6,10 @@ import io.restassured.builder.RequestSpecBuilder;
 import io.restassured.http.ContentType;
 import io.restassured.response.Response;
 import io.restassured.specification.RequestSpecification;
+import org.json.JSONObject;
 import org.junit.Assert;
+
+import java.io.File;
 
 import static io.restassured.RestAssured.given;
 
@@ -14,7 +17,7 @@ public class DenemeAPI {
 
     Response response = null; // bağlantıdan (request) gelen cevap
     RequestSpecification request = new RequestSpecBuilder()
-                                    .setBaseUri("http://test.kese.nl/api")
+                                    .setBaseUri("http://localhost:5002/api")
                                     .build();
 
     @Given("user connects to {string}")
@@ -67,4 +70,19 @@ public class DenemeAPI {
     }
 
 
+    @Given("send photo")
+    public void sendPhoto() {
+        JSONObject jsonObject = new JSONObject();
+        jsonObject.put("deneme", "asdf");
+        File file = new File(System.getProperty("user.dir") + "/src/test/resources/pictures/5.jpg");
+        response = given().
+                multiPart("photo0", file).
+                formParam("deneme","aaaaaaasdf").
+                queryParam("secret_token", "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7Il9pZCI6IjYxZDIyYzMxODk3MDhhMmQyYWVlZGExYyIsImVtYWlsIjoia3VsbGFuaWNpMUBnbWFpbC5jb20iLCJyb2wiOiJrdWxsYW5pY2kiLCJrdWxsYW5pY2lfYWRpIjoia3VsbGFuaWNpMSIsImR1cnVtIjoxfSwiaWF0IjoxNjQzMzk4MTU4LCJleHAiOjE2NzQ5MzQxNTh9.iMhXsQxv9ZqMVbRndKjzvsz7uJIhXaywBZ-PCBIRil0").
+                contentType("multipart/form-data").
+                spec(request).
+                post("/homes");
+        System.out.println(response.getStatusCode());
+        response.prettyPrint();
+    }
 }

@@ -11,6 +11,8 @@ import io.restassured.response.Response;
 import io.restassured.specification.RequestSpecification;
 import org.json.JSONObject;
 import org.junit.Assert;
+import utilities.BrowserUtilities;
+import utilities.ConfigurationReader;
 
 import java.io.File;
 import java.util.HashMap;
@@ -22,9 +24,9 @@ import static io.restassured.config.EncoderConfig.encoderConfig;
 public class US94_StepDef {
     Response response = null;
     RequestSpecification spec = new RequestSpecBuilder()
-            .setBaseUri("http://test.kese.nl/api")
+            .setBaseUri("https://kese.nl/api")
+            .setRelaxedHTTPSValidation()
             .build();
-    EncoderConfig encoderconfig = new EncoderConfig();
 
     @Given("user connects to {string} with required datas to create a new room post")
     public void userConnectsToWithRequiredDatasToCreateANewRoomPost(String endPoint) {
@@ -93,7 +95,7 @@ public class US94_StepDef {
         datalar.put("room_description", "Deneme bir iki üç");
 
         response = given().
-                   queryParam("secret_token", "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7Il9pZCI6IjYxZDIyYzMxODk3MDhhMmQyYWVlZGExYyIsImVtYWlsIjoia3VsbGFuaWNpMUBnbWFpbC5jb20iLCJyb2wiOiJrdWxsYW5pY2kiLCJrdWxsYW5pY2lfYWRpIjoia3VsbGFuaWNpMSIsImR1cnVtIjoxfSwiaWF0IjoxNjQzOTg1NDk5LCJleHAiOjE2NzU1MjE0OTl9.oioO4xj68vfOOwI-QKk6MkblbpiY7rF2dqk1W8mkmug").
+                   queryParam("secret_token", ConfigurationReader.getProperty("secret_token")).
                    multiPart("photo0", photo0).
                    multiPart("photo1", photo1).
                    multiPart("photo2", photo2).
@@ -105,7 +107,8 @@ public class US94_StepDef {
 
                    post(endPoint);
 
-
+        String id = response.jsonPath().getString("_id");
+        BrowserUtilities.writeDataToIdsFile("room",id);
         response.prettyPrint();
         System.out.println(response.getStatusCode());
 

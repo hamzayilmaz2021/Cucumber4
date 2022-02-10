@@ -1,7 +1,8 @@
+@ui
 Feature: US_022	Bir kullanıcı olarak "/forgot_password" sayfasına girdiğimde, email adresime şifre sıfırlama linki gönderebilmeliyim.
 
   Background:
-    Given user goes to "http://test.kese.nl/forgot_password" page
+    Given user goes to "https://kese.nl/forgot_password" page
 
   Scenario Outline: TC_001_US_022 and TC_002_US_022
     And user types "<email>" to the email input on the forgot password page

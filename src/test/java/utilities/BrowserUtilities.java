@@ -1,5 +1,6 @@
 package utilities;
 
+import com.sun.istack.Nullable;
 import org.junit.Assert;
 import org.openqa.selenium.*;
 import org.openqa.selenium.interactions.Actions;
@@ -13,6 +14,33 @@ import java.util.List;
 import java.util.Properties;
 
 public class BrowserUtilities {
+
+    @Nullable
+    public static void writeDataToIdsFile(String tip, String id){ // room=123123
+        try (OutputStream output = new FileOutputStream("ids.properties")) {
+
+            Properties prop = new Properties();
+            prop.setProperty(tip, id);
+            prop.store(output, null);
+
+        } catch (IOException io) {
+            io.printStackTrace();
+        }
+    }
+
+    @Nullable
+    public static String readDataFromIdsFile(String tip){ // room
+        try (InputStream input = new FileInputStream("ids.properties")) {
+
+            Properties prop = new Properties();
+            prop.load(input);
+
+            return prop.getProperty(tip);
+
+        } catch (IOException ex) {
+            return null;
+        }
+    }
 
     public static WebElement waitForVisibility(WebElement element, int timeToWaitInSec) {
         WebDriverWait wait = new WebDriverWait(Driver.getDriver(), timeToWaitInSec);

@@ -1,3 +1,4 @@
+@ui
 Feature: US_032	Bir kullanıcı olarak "Ev Değişimi" ilan oluşturma sayfasında, 1. stepten 2. stepe geçiş yapabilmeliyim.
   # "İlerle" butonu görünür olmalıdır.
   #  "İlerle" butonu default olarak tıklanabilir olmamalıdır.

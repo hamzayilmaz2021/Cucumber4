@@ -1,11 +1,12 @@
+@ui
 Feature: US_055	Bir kullanıcı olarak "Ev Değişimi" ilan oluşturma sayfasında, ilk adım hariç diğer adımlarda geriye dönebilmeliyim.
 
   Background: login
-    Given user goes to "http://test.kese.nl/login" page
+    Given user goes to "https://kese.nl/login" page
     And user types "hamza@gmail.com" to the email input with "ValidEmail" on the login page
     And user types "1234" to the password input on the login page
     And user clicks to the giris yap button one the login page
-    And user goes to "http://test.kese.nl/new_home" page
+    And user goes to "https://kese.nl/new_home" page
 
   # TC_001_US_055	The "Geri" button should be enabled in all steps except the first step
   # TC_002_US_055	When an user comes back to the provious step, the all informations user previously added should be visible

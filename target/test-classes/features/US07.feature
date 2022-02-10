@@ -1,7 +1,8 @@
+@ui
 Feature: US_007	Bir kullanıcı olarak ana sayfaya girdiğimde, "Popüler İlanlar" bölümünü görebilmeliyim.
 
   Background:
-    Given user goes to "http://test.kese.nl" page
+    Given user goes to "https://kese.nl" page
 
   Scenario: TC_001_US_007	"Popüler İlanlar" should be visible.
     Then user verifies "Popüler İlanlar" is visible

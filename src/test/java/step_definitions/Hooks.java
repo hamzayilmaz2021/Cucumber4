@@ -8,24 +8,24 @@ import io.cucumber.java.Scenario;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 
-//
+
 import java.util.concurrent.TimeUnit;
 
 public class Hooks {
-    @Before
+    @Before("@ui")
     public void setUp(){
 
-        //Driver.getDriver().manage().window().maximize();
-       // Driver.getDriver().manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+        Driver.getDriver().manage().window().maximize();
+        Driver.getDriver().manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
     }
-    @After
+    @After("@ui")
     public void tearDown(Scenario scenario){
-        /*if (scenario.isFailed()){
+        if (scenario.isFailed()){
             final byte[] screenShot = ((TakesScreenshot)Driver.getDriver()).getScreenshotAs(OutputType.BYTES);
             scenario.attach(screenShot,"image/png", scenario.getName()+"_screenshot");
 
         }
         BrowserUtilities.waitFor(3);
-        Driver.closeDriver();*/
+        Driver.closeDriver();
     }
 }

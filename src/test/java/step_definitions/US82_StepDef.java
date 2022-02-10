@@ -9,6 +9,7 @@ import io.restassured.response.Response;
 import io.restassured.specification.RequestSpecification;
 import org.json.JSONObject;
 import org.junit.Assert;
+import utilities.ConfigurationReader;
 
 import static io.restassured.RestAssured.given;
 
@@ -16,7 +17,8 @@ public class US82_StepDef {
 
     Response response = null;
     RequestSpecification request = new RequestSpecBuilder()
-            .setBaseUri("http://test.kese.nl/api")
+            .setRelaxedHTTPSValidation()
+            .setBaseUri(ConfigurationReader.getProperty("kese_api"))
             .build();
 
     @Given("user connects to {string} with post")

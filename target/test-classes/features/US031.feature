@@ -1,3 +1,4 @@
+@ui
 Feature: US_031	Bir kullanıcı olarak "Ev Değişimi" ilan oluşturma sayfasında, 1. stepte "Ev Tipi" bilgisini girebilmeliyim.
 
   #"Ev Tipi" başlığı görünür olmalıdır.
@@ -7,11 +8,11 @@ Feature: US_031	Bir kullanıcı olarak "Ev Değişimi" ilan oluşturma sayfasın
   #1. stepte, sayfanın üst kısmında "1 / 10" yazısı görünür olmalıdır.
 
   Background: login
-    Given user goes to "http://test.kese.nl/login" page
+    Given user goes to "https://kese.nl/login" page
     And user types "hamza@gmail.com" to the email input with "ValidEmail" on the login page
     And user types "1234" to the password input on the login page
     And user clicks to the giris yap button one the login page
-    And user goes to "http://test.kese.nl/new_home" page
+    And user goes to "https://kese.nl/new_home" page
 
   Scenario Outline:
     Given user verifies "Ev Tipi" is visible

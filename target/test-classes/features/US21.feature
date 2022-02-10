@@ -1,8 +1,9 @@
+@ui
 Feature: US_021	Bir kullanıcı olarak "/signup" sayfasına girdiğimde, kullanıcı kaydı oluşturmak için aynı şifreyi 2 kez girmeliyim.
 
   @smoketest
   Scenario: TC_001_US_021 and TC_002_US_021
-    Given user goes to "http://test.kese.nl/signup" page
+    Given user goes to "https://kese.nl/signup" page
     And user types "hamza" to the username input on the signup page
     And user types "hamza@gmail.com" to the email input on the signup page
     And user types "1234" to the password input on the signup page

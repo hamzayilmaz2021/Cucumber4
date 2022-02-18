@@ -1,0 +1,2348 @@
+# Created at 2022-02-16T22:14:13.731
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.io.DataInputStream.readInt(Unknown Source)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:391)
+	at java.lang.Thread.run(Unknown Source)
+
+
+# Created at 2022-02-16T22:14:18.475
+Unexpected IOException: 6,1,US_007\0009Bir kullan\0131c\0131 olarak ana sayfaya girdi\011Fimde\002C "Pop\00FCler \0130lanlar" b\00F6l\00FCm\00FCn\00FC g\00F6rebilmeliyim.,TC_003_US_007\0009"Ev De\011Fi\015Fimi"\002C "Oda Kirala" and "Bed & Breakfast" should be clickable.(US_007\0009Bir kullan\0131c\0131 olarak ana sayfaya girdi\011Fimde\002C "Pop\00FCler \0130lanlar" b\00F6l\00FCm\00FCn\00FC g\00F6rebilmeliyim.),null,null,null
+
+
+# Created at 2022-02-16T22:14:18.477
+Unexpected IOException: 5,1,US_007\0009Bir kullan\0131c\0131 olarak ana sayfaya girdi\011Fimde\002C "Pop\00FCler \0130lanlar" b\00F6l\00FCm\00FCn\00FC g\00F6rebilmeliyim.,TC_004_US_007\0009"Ev De\011Fi\015Fimi"\002C "Oda Kirala" and "Bed & Breakfast" should contain only its own posts. #1(US_007\0009Bir kullan\0131c\0131 olarak ana sayfaya girdi\011Fimde\002C "Pop\00FCler \0130lanlar" b\00F6l\00FCm\00FCn\00FC g\00F6rebilmeliyim.),null,null,null
+
+
+# Created at 2022-02-16T22:14:19.733
+Unexpected IOException with stream: S
+
+# Created at 2022-02-16T22:14:19.735
+Unexpected IOException with stream: t
+
+# Created at 2022-02-16T22:14:19.736
+Unexpected IOException with stream: a
+
+# Created at 2022-02-16T22:14:19.738
+Unexpected IOException with stream: r
+
+# Created at 2022-02-16T22:14:19.739
+Unexpected IOException with stream: t
+
+# Created at 2022-02-16T22:14:19.740
+Unexpected IOException with stream: i
+
+# Created at 2022-02-16T22:14:19.743
+Unexpected IOException with stream: n
+
+# Created at 2022-02-16T22:14:19.744
+Unexpected IOException with stream: g
+
+# Created at 2022-02-16T22:14:19.746
+Unexpected IOException with stream:  
+
+# Created at 2022-02-16T22:14:19.749
+Unexpected IOException with stream: C
+
+# Created at 2022-02-16T22:14:19.750
+Unexpected IOException with stream: h
+
+# Created at 2022-02-16T22:14:19.752
+Unexpected IOException with stream: r
+
+# Created at 2022-02-16T22:14:19.753
+Unexpected IOException with stream: o
+
+# Created at 2022-02-16T22:14:19.755
+Unexpected IOException with stream: m
+
+# Created at 2022-02-16T22:14:19.757
+Unexpected IOException with stream: e
+
+# Created at 2022-02-16T22:14:19.758
+Unexpected IOException with stream: D
+
+# Created at 2022-02-16T22:14:19.759
+Unexpected IOException with stream: r
+
+# Created at 2022-02-16T22:14:19.760
+Unexpected IOException with stream: i
+
+# Created at 2022-02-16T22:14:19.761
+Unexpected IOException with stream: v
+
+# Created at 2022-02-16T22:14:19.762
+Unexpected IOException with stream: e
+
+# Created at 2022-02-16T22:14:19.763
+Unexpected IOException with stream: r
+
+# Created at 2022-02-16T22:14:19.764
+Unexpected IOException with stream:  
+
+# Created at 2022-02-16T22:14:19.765
+Unexpected IOException with stream: 9
+
+# Created at 2022-02-16T22:14:19.766
+Unexpected IOException with stream: 8
+
+# Created at 2022-02-16T22:14:19.767
+Unexpected IOException with stream: .
+
+# Created at 2022-02-16T22:14:19.768
+Unexpected IOException with stream: 0
+
+# Created at 2022-02-16T22:14:19.769
+Unexpected IOException with stream: .
+
+# Created at 2022-02-16T22:14:19.770
+Unexpected IOException with stream: 4
+
+# Created at 2022-02-16T22:14:19.771
+Unexpected IOException with stream: 7
+
+# Created at 2022-02-16T22:14:19.772
+Unexpected IOException with stream: 5
+
+# Created at 2022-02-16T22:14:19.773
+Unexpected IOException with stream: 8
+
+# Created at 2022-02-16T22:14:19.774
+Unexpected IOException with stream: .
+
+# Created at 2022-02-16T22:14:19.775
+Unexpected IOException with stream: 1
+
+# Created at 2022-02-16T22:14:19.776
+Unexpected IOException with stream: 0
+
+# Created at 2022-02-16T22:14:19.777
+Unexpected IOException with stream: 2
+
+# Created at 2022-02-16T22:14:19.778
+Unexpected IOException with stream:  
+
+# Created at 2022-02-16T22:14:19.779
+Unexpected IOException with stream: (
+
+# Created at 2022-02-16T22:14:19.783
+Unexpected IOException with stream: 2
+
+# Created at 2022-02-16T22:14:19.785
+Unexpected IOException with stream: 7
+
+# Created at 2022-02-16T22:14:19.788
+Unexpected IOException with stream: 3
+
+# Created at 2022-02-16T22:14:19.790
+Unexpected IOException with stream: b
+
+# Created at 2022-02-16T22:14:19.791
+Unexpected IOException with stream: f
+
+# Created at 2022-02-16T22:14:19.793
+Unexpected IOException with stream: 7
+
+# Created at 2022-02-16T22:14:19.794
+Unexpected IOException with stream: a
+
+# Created at 2022-02-16T22:14:19.795
+Unexpected IOException with stream: c
+
+# Created at 2022-02-16T22:14:19.796
+Unexpected IOException with stream: 8
+
+# Created at 2022-02-16T22:14:19.797
+Unexpected IOException with stream: c
+
+# Created at 2022-02-16T22:14:19.799
+Unexpected IOException with stream: 9
+
+# Created at 2022-02-16T22:14:19.800
+Unexpected IOException with stream: 0
+
+# Created at 2022-02-16T22:14:19.801
+Unexpected IOException with stream: 9
+
+# Created at 2022-02-16T22:14:19.802
+Unexpected IOException with stream: c
+
+# Created at 2022-02-16T22:14:19.803
+Unexpected IOException with stream: d
+
+# Created at 2022-02-16T22:14:19.804
+Unexpected IOException with stream: e
+
+# Created at 2022-02-16T22:14:19.805
+Unexpected IOException with stream: 3
+
+# Created at 2022-02-16T22:14:19.806
+Unexpected IOException with stream: 6
+
+# Created at 2022-02-16T22:14:19.807
+Unexpected IOException with stream: 9
+
+# Created at 2022-02-16T22:14:19.807
+Unexpected IOException with stream: 8
+
+# Created at 2022-02-16T22:14:19.808
+Unexpected IOException with stream: 2
+
+# Created at 2022-02-16T22:14:19.809
+Unexpected IOException with stream: d
+
+# Created at 2022-02-16T22:14:19.810
+Unexpected IOException with stream: 2
+
+# Created at 2022-02-16T22:14:19.811
+Unexpected IOException with stream: 7
+
+# Created at 2022-02-16T22:14:19.812
+Unexpected IOException with stream: f
+
+# Created at 2022-02-16T22:14:19.813
+Unexpected IOException with stream: 6
+
+# Created at 2022-02-16T22:14:19.814
+Unexpected IOException with stream: 6
+
+# Created at 2022-02-16T22:14:19.815
+Unexpected IOException with stream: f
+
+# Created at 2022-02-16T22:14:19.816
+Unexpected IOException with stream: 3
+
+# Created at 2022-02-16T22:14:19.817
+Unexpected IOException with stream: c
+
+# Created at 2022-02-16T22:14:19.818
+Unexpected IOException with stream: 7
+
+# Created at 2022-02-16T22:14:19.819
+Unexpected IOException with stream: 0
+
+# Created at 2022-02-16T22:14:19.820
+Unexpected IOException with stream: 8
+
+# Created at 2022-02-16T22:14:19.821
+Unexpected IOException with stream: 4
+
+# Created at 2022-02-16T22:14:19.822
+Unexpected IOException with stream: 6
+
+# Created at 2022-02-16T22:14:19.823
+Unexpected IOException with stream: a
+
+# Created at 2022-02-16T22:14:19.824
+Unexpected IOException with stream: 3
+
+# Created at 2022-02-16T22:14:19.826
+Unexpected IOException with stream: 7
+
+# Created at 2022-02-16T22:14:19.827
+Unexpected IOException with stream: 1
+
+# Created at 2022-02-16T22:14:19.828
+Unexpected IOException with stream: 8
+
+# Created at 2022-02-16T22:14:19.829
+Unexpected IOException with stream: -
+
+# Created at 2022-02-16T22:14:19.830
+Unexpected IOException with stream: r
+
+# Created at 2022-02-16T22:14:19.832
+Unexpected IOException with stream: e
+
+# Created at 2022-02-16T22:14:19.833
+Unexpected IOException with stream: f
+
+# Created at 2022-02-16T22:14:19.835
+Unexpected IOException with stream: s
+
+# Created at 2022-02-16T22:14:19.836
+Unexpected IOException with stream: /
+
+# Created at 2022-02-16T22:14:19.837
+Unexpected IOException with stream: b
+
+# Created at 2022-02-16T22:14:19.838
+Unexpected IOException with stream: r
+
+# Created at 2022-02-16T22:14:19.839
+Unexpected IOException with stream: a
+
+# Created at 2022-02-16T22:14:19.840
+Unexpected IOException with stream: n
+
+# Created at 2022-02-16T22:14:19.841
+Unexpected IOException with stream: c
+
+# Created at 2022-02-16T22:14:19.842
+Unexpected IOException with stream: h
+
+# Created at 2022-02-16T22:14:19.843
+Unexpected IOException with stream: -
+
+# Created at 2022-02-16T22:14:19.845
+Unexpected IOException with stream: h
+
+# Created at 2022-02-16T22:14:19.846
+Unexpected IOException with stream: e
+
+# Created at 2022-02-16T22:14:19.847
+Unexpected IOException with stream: a
+
+# Created at 2022-02-16T22:14:19.848
+Unexpected IOException with stream: d
+
+# Created at 2022-02-16T22:14:19.849
+Unexpected IOException with stream: s
+
+# Created at 2022-02-16T22:14:19.850
+Unexpected IOException with stream: /
+
+# Created at 2022-02-16T22:14:19.851
+Unexpected IOException with stream: 4
+
+# Created at 2022-02-16T22:14:19.852
+Unexpected IOException with stream: 7
+
+# Created at 2022-02-16T22:14:19.853
+Unexpected IOException with stream: 5
+
+# Created at 2022-02-16T22:14:19.854
+Unexpected IOException with stream: 8
+
+# Created at 2022-02-16T22:14:19.855
+Unexpected IOException with stream: @
+
+# Created at 2022-02-16T22:14:19.856
+Unexpected IOException with stream: {
+
+# Created at 2022-02-16T22:14:19.857
+Unexpected IOException with stream: #
+
+# Created at 2022-02-16T22:14:19.858
+Unexpected IOException with stream: 1
+
+# Created at 2022-02-16T22:14:19.859
+Unexpected IOException with stream: 1
+
+# Created at 2022-02-16T22:14:19.860
+Unexpected IOException with stream: 5
+
+# Created at 2022-02-16T22:14:19.862
+Unexpected IOException with stream: 1
+
+# Created at 2022-02-16T22:14:19.865
+Unexpected IOException with stream: }
+
+# Created at 2022-02-16T22:14:19.868
+Unexpected IOException with stream: )
+
+# Created at 2022-02-16T22:14:19.870
+Unexpected IOException with stream:  
+
+# Created at 2022-02-16T22:14:19.872
+Unexpected IOException with stream: o
+
+# Created at 2022-02-16T22:14:19.878
+Unexpected IOException with stream: n
+
+# Created at 2022-02-16T22:14:19.879
+Unexpected IOException with stream:  
+
+# Created at 2022-02-16T22:14:19.881
+Unexpected IOException with stream: p
+
+# Created at 2022-02-16T22:14:19.882
+Unexpected IOException with stream: o
+
+# Created at 2022-02-16T22:14:19.884
+Unexpected IOException with stream: r
+
+# Created at 2022-02-16T22:14:19.885
+Unexpected IOException with stream: t
+
+# Created at 2022-02-16T22:14:19.886
+Unexpected IOException with stream:  
+
+# Created at 2022-02-16T22:14:19.888
+Unexpected IOException with stream: 3
+
+# Created at 2022-02-16T22:14:19.889
+Unexpected IOException with stream: 9
+
+# Created at 2022-02-16T22:14:19.890
+Unexpected IOException with stream: 0
+
+# Created at 2022-02-16T22:14:19.891
+Unexpected IOException with stream: 0
+
+# Created at 2022-02-16T22:14:19.893
+Unexpected IOException with stream: 4
+
+# Created at 2022-02-16T22:14:19.894
+Unexpected IOException with stream: 
+
+# Created at 2022-02-16T22:14:19.895
+Unexpected IOException with stream: 
+
+
+# Created at 2022-02-16T22:14:19.897
+Unexpected IOException with stream: O
+
+# Created at 2022-02-16T22:14:19.899
+Unexpected IOException with stream: n
+
+# Created at 2022-02-16T22:14:19.902
+Unexpected IOException with stream: l
+
+# Created at 2022-02-16T22:14:19.904
+Unexpected IOException with stream: y
+
+# Created at 2022-02-16T22:14:19.910
+Unexpected IOException with stream:  
+
+# Created at 2022-02-16T22:14:19.911
+Unexpected IOException with stream: l
+
+# Created at 2022-02-16T22:14:19.913
+Unexpected IOException with stream: o
+
+# Created at 2022-02-16T22:14:19.916
+Unexpected IOException with stream: c
+
+# Created at 2022-02-16T22:14:19.917
+Unexpected IOException with stream: a
+
+# Created at 2022-02-16T22:14:19.918
+Unexpected IOException with stream: l
+
+# Created at 2022-02-16T22:14:19.919
+Unexpected IOException with stream:  
+
+# Created at 2022-02-16T22:14:19.921
+Unexpected IOException with stream: c
+
+# Created at 2022-02-16T22:14:19.922
+Unexpected IOException with stream: o
+
+# Created at 2022-02-16T22:14:19.924
+Unexpected IOException with stream: n
+
+# Created at 2022-02-16T22:14:19.925
+Unexpected IOException with stream: n
+
+# Created at 2022-02-16T22:14:19.927
+Unexpected IOException with stream: e
+
+# Created at 2022-02-16T22:14:19.928
+Unexpected IOException with stream: c
+
+# Created at 2022-02-16T22:14:19.930
+Unexpected IOException with stream: t
+
+# Created at 2022-02-16T22:14:19.933
+Unexpected IOException with stream: i
+
+# Created at 2022-02-16T22:14:19.935
+Unexpected IOException with stream: o
+
+# Created at 2022-02-16T22:14:19.936
+Unexpected IOException with stream: n
+
+# Created at 2022-02-16T22:14:19.938
+Unexpected IOException with stream: s
+
+# Created at 2022-02-16T22:14:19.939
+Unexpected IOException with stream:  
+
+# Created at 2022-02-16T22:14:19.943
+Unexpected IOException with stream: a
+
+# Created at 2022-02-16T22:14:19.947
+Unexpected IOException with stream: r
+
+# Created at 2022-02-16T22:14:19.949
+Unexpected IOException with stream: e
+
+# Created at 2022-02-16T22:14:19.950
+Unexpected IOException with stream:  
+
+# Created at 2022-02-16T22:14:19.952
+Unexpected IOException with stream: a
+
+# Created at 2022-02-16T22:14:19.954
+Unexpected IOException with stream: l
+
+# Created at 2022-02-16T22:14:19.955
+Unexpected IOException with stream: l
+
+# Created at 2022-02-16T22:14:19.957
+Unexpected IOException with stream: o
+
+# Created at 2022-02-16T22:14:19.958
+Unexpected IOException with stream: w
+
+# Created at 2022-02-16T22:14:19.959
+Unexpected IOException with stream: e
+
+# Created at 2022-02-16T22:14:19.960
+Unexpected IOException with stream: d
+
+# Created at 2022-02-16T22:14:19.961
+Unexpected IOException with stream: .
+
+# Created at 2022-02-16T22:14:19.962
+Unexpected IOException with stream: 
+
+# Created at 2022-02-16T22:14:19.964
+Unexpected IOException with stream: 
+
+
+# Created at 2022-02-16T22:14:19.965
+Unexpected IOException with stream: P
+
+# Created at 2022-02-16T22:14:19.967
+Unexpected IOException with stream: l
+
+# Created at 2022-02-16T22:14:19.968
+Unexpected IOException with stream: e
+
+# Created at 2022-02-16T22:14:19.970
+Unexpected IOException with stream: a
+
+# Created at 2022-02-16T22:14:19.971
+Unexpected IOException with stream: s
+
+# Created at 2022-02-16T22:14:19.972
+Unexpected IOException with stream: e
+
+# Created at 2022-02-16T22:14:19.973
+Unexpected IOException with stream:  
+
+# Created at 2022-02-16T22:14:19.974
+Unexpected IOException with stream: s
+
+# Created at 2022-02-16T22:14:19.975
+Unexpected IOException with stream: e
+
+# Created at 2022-02-16T22:14:19.976
+Unexpected IOException with stream: e
+
+# Created at 2022-02-16T22:14:19.977
+Unexpected IOException with stream:  
+
+# Created at 2022-02-16T22:14:19.978
+Unexpected IOException with stream: h
+
+# Created at 2022-02-16T22:14:19.979
+Unexpected IOException with stream: t
+
+# Created at 2022-02-16T22:14:19.982
+Unexpected IOException with stream: t
+
+# Created at 2022-02-16T22:14:19.986
+Unexpected IOException with stream: p
+
+# Created at 2022-02-16T22:14:19.989
+Unexpected IOException with stream: s
+
+# Created at 2022-02-16T22:14:19.991
+Unexpected IOException with stream: :
+
+# Created at 2022-02-16T22:14:19.993
+Unexpected IOException with stream: /
+
+# Created at 2022-02-16T22:14:19.994
+Unexpected IOException with stream: /
+
+# Created at 2022-02-16T22:14:19.996
+Unexpected IOException with stream: c
+
+# Created at 2022-02-16T22:14:19.998
+Unexpected IOException with stream: h
+
+# Created at 2022-02-16T22:14:19.999
+Unexpected IOException with stream: r
+
+# Created at 2022-02-16T22:14:20.001
+Unexpected IOException with stream: o
+
+# Created at 2022-02-16T22:14:20.002
+Unexpected IOException with stream: m
+
+# Created at 2022-02-16T22:14:20.003
+Unexpected IOException with stream: e
+
+# Created at 2022-02-16T22:14:20.005
+Unexpected IOException with stream: d
+
+# Created at 2022-02-16T22:14:20.006
+Unexpected IOException with stream: r
+
+# Created at 2022-02-16T22:14:20.008
+Unexpected IOException with stream: i
+
+# Created at 2022-02-16T22:14:20.009
+Unexpected IOException with stream: v
+
+# Created at 2022-02-16T22:14:20.011
+Unexpected IOException with stream: e
+
+# Created at 2022-02-16T22:14:20.012
+Unexpected IOException with stream: r
+
+# Created at 2022-02-16T22:14:20.013
+Unexpected IOException with stream: .
+
+# Created at 2022-02-16T22:14:20.014
+Unexpected IOException with stream: c
+
+# Created at 2022-02-16T22:14:20.015
+Unexpected IOException with stream: h
+
+# Created at 2022-02-16T22:14:20.017
+Unexpected IOException with stream: r
+
+# Created at 2022-02-16T22:14:20.018
+Unexpected IOException with stream: o
+
+# Created at 2022-02-16T22:14:20.019
+Unexpected IOException with stream: m
+
+# Created at 2022-02-16T22:14:20.019
+Unexpected IOException with stream: i
+
+# Created at 2022-02-16T22:14:20.021
+Unexpected IOException with stream: u
+
+# Created at 2022-02-16T22:14:20.022
+Unexpected IOException with stream: m
+
+# Created at 2022-02-16T22:14:20.026
+Unexpected IOException with stream: .
+
+# Created at 2022-02-16T22:14:20.027
+Unexpected IOException with stream: o
+
+# Created at 2022-02-16T22:14:20.028
+Unexpected IOException with stream: r
+
+# Created at 2022-02-16T22:14:20.029
+Unexpected IOException with stream: g
+
+# Created at 2022-02-16T22:14:20.031
+Unexpected IOException with stream: /
+
+# Created at 2022-02-16T22:14:20.032
+Unexpected IOException with stream: s
+
+# Created at 2022-02-16T22:14:20.034
+Unexpected IOException with stream: e
+
+# Created at 2022-02-16T22:14:20.036
+Unexpected IOException with stream: c
+
+# Created at 2022-02-16T22:14:20.037
+Unexpected IOException with stream: u
+
+# Created at 2022-02-16T22:14:20.038
+Unexpected IOException with stream: r
+
+# Created at 2022-02-16T22:14:20.040
+Unexpected IOException with stream: i
+
+# Created at 2022-02-16T22:14:20.041
+Unexpected IOException with stream: t
+
+# Created at 2022-02-16T22:14:20.043
+Unexpected IOException with stream: y
+
+# Created at 2022-02-16T22:14:20.044
+Unexpected IOException with stream: -
+
+# Created at 2022-02-16T22:14:20.045
+Unexpected IOException with stream: c
+
+# Created at 2022-02-16T22:14:20.047
+Unexpected IOException with stream: o
+
+# Created at 2022-02-16T22:14:20.048
+Unexpected IOException with stream: n
+
+# Created at 2022-02-16T22:14:20.050
+Unexpected IOException with stream: s
+
+# Created at 2022-02-16T22:14:20.051
+Unexpected IOException with stream: i
+
+# Created at 2022-02-16T22:14:20.053
+Unexpected IOException with stream: d
+
+# Created at 2022-02-16T22:14:20.054
+Unexpected IOException with stream: e
+
+# Created at 2022-02-16T22:14:20.055
+Unexpected IOException with stream: r
+
+# Created at 2022-02-16T22:14:20.057
+Unexpected IOException with stream: a
+
+# Created at 2022-02-16T22:14:20.058
+Unexpected IOException with stream: t
+
+# Created at 2022-02-16T22:14:20.059
+Unexpected IOException with stream: i
+
+# Created at 2022-02-16T22:14:20.060
+Unexpected IOException with stream: o
+
+# Created at 2022-02-16T22:14:20.062
+Unexpected IOException with stream: n
+
+# Created at 2022-02-16T22:14:20.064
+Unexpected IOException with stream: s
+
+# Created at 2022-02-16T22:14:20.066
+Unexpected IOException with stream:  
+
+# Created at 2022-02-16T22:14:20.068
+Unexpected IOException with stream: f
+
+# Created at 2022-02-16T22:14:20.070
+Unexpected IOException with stream: o
+
+# Created at 2022-02-16T22:14:20.071
+Unexpected IOException with stream: r
+
+# Created at 2022-02-16T22:14:20.073
+Unexpected IOException with stream:  
+
+# Created at 2022-02-16T22:14:20.074
+Unexpected IOException with stream: s
+
+# Created at 2022-02-16T22:14:20.075
+Unexpected IOException with stream: u
+
+# Created at 2022-02-16T22:14:20.076
+Unexpected IOException with stream: g
+
+# Created at 2022-02-16T22:14:20.077
+Unexpected IOException with stream: g
+
+# Created at 2022-02-16T22:14:20.079
+Unexpected IOException with stream: e
+
+# Created at 2022-02-16T22:14:20.080
+Unexpected IOException with stream: s
+
+# Created at 2022-02-16T22:14:20.083
+Unexpected IOException with stream: t
+
+# Created at 2022-02-16T22:14:20.084
+Unexpected IOException with stream: i
+
+# Created at 2022-02-16T22:14:20.086
+Unexpected IOException with stream: o
+
+# Created at 2022-02-16T22:14:20.087
+Unexpected IOException with stream: n
+
+# Created at 2022-02-16T22:14:20.088
+Unexpected IOException with stream: s
+
+# Created at 2022-02-16T22:14:20.090
+Unexpected IOException with stream:  
+
+# Created at 2022-02-16T22:14:20.091
+Unexpected IOException with stream: o
+
+# Created at 2022-02-16T22:14:20.092
+Unexpected IOException with stream: n
+
+# Created at 2022-02-16T22:14:20.094
+Unexpected IOException with stream:  
+
+# Created at 2022-02-16T22:14:20.095
+Unexpected IOException with stream: k
+
+# Created at 2022-02-16T22:14:20.097
+Unexpected IOException with stream: e
+
+# Created at 2022-02-16T22:14:20.098
+Unexpected IOException with stream: e
+
+# Created at 2022-02-16T22:14:20.100
+Unexpected IOException with stream: p
+
+# Created at 2022-02-16T22:14:20.101
+Unexpected IOException with stream: i
+
+# Created at 2022-02-16T22:14:20.102
+Unexpected IOException with stream: n
+
+# Created at 2022-02-16T22:14:20.103
+Unexpected IOException with stream: g
+
+# Created at 2022-02-16T22:14:20.104
+Unexpected IOException with stream:  
+
+# Created at 2022-02-16T22:14:20.105
+Unexpected IOException with stream: C
+
+# Created at 2022-02-16T22:14:20.106
+Unexpected IOException with stream: h
+
+# Created at 2022-02-16T22:14:20.108
+Unexpected IOException with stream: r
+
+# Created at 2022-02-16T22:14:20.131
+Unexpected IOException with stream: o
+
+# Created at 2022-02-16T22:14:20.133
+Unexpected IOException with stream: m
+
+# Created at 2022-02-16T22:14:20.141
+Unexpected IOException with stream: e
+
+# Created at 2022-02-16T22:14:20.143
+Unexpected IOException with stream: D
+
+# Created at 2022-02-16T22:14:20.144
+Unexpected IOException with stream: r
+
+# Created at 2022-02-16T22:14:20.145
+Unexpected IOException with stream: i
+
+# Created at 2022-02-16T22:14:20.147
+Unexpected IOException with stream: v
+
+# Created at 2022-02-16T22:14:20.149
+Unexpected IOException with stream: e
+
+# Created at 2022-02-16T22:14:20.151
+Unexpected IOException with stream: r
+
+# Created at 2022-02-16T22:14:20.153
+Unexpected IOException with stream:  
+
+# Created at 2022-02-16T22:14:20.154
+Unexpected IOException with stream: s
+
+# Created at 2022-02-16T22:14:20.156
+Unexpected IOException with stream: a
+
+# Created at 2022-02-16T22:14:20.158
+Unexpected IOException with stream: f
+
+# Created at 2022-02-16T22:14:20.159
+Unexpected IOException with stream: e
+
+# Created at 2022-02-16T22:14:20.160
+Unexpected IOException with stream: .
+
+# Created at 2022-02-16T22:14:20.161
+Unexpected IOException with stream: 
+
+# Created at 2022-02-16T22:14:20.163
+Unexpected IOException with stream: 
+
+
+# Created at 2022-02-16T22:14:20.164
+Unexpected IOException with stream: C
+
+# Created at 2022-02-16T22:14:20.166
+Unexpected IOException with stream: h
+
+# Created at 2022-02-16T22:14:20.167
+Unexpected IOException with stream: r
+
+# Created at 2022-02-16T22:14:20.169
+Unexpected IOException with stream: o
+
+# Created at 2022-02-16T22:14:20.170
+Unexpected IOException with stream: m
+
+# Created at 2022-02-16T22:14:20.171
+Unexpected IOException with stream: e
+
+# Created at 2022-02-16T22:14:20.172
+Unexpected IOException with stream: D
+
+# Created at 2022-02-16T22:14:20.173
+Unexpected IOException with stream: r
+
+# Created at 2022-02-16T22:14:20.177
+Unexpected IOException with stream: i
+
+# Created at 2022-02-16T22:14:20.179
+Unexpected IOException with stream: v
+
+# Created at 2022-02-16T22:14:20.181
+Unexpected IOException with stream: e
+
+# Created at 2022-02-16T22:14:20.189
+Unexpected IOException with stream: r
+
+# Created at 2022-02-16T22:14:20.192
+Unexpected IOException with stream:  
+
+# Created at 2022-02-16T22:14:20.193
+Unexpected IOException with stream: w
+
+# Created at 2022-02-16T22:14:20.195
+Unexpected IOException with stream: a
+
+# Created at 2022-02-16T22:14:20.196
+Unexpected IOException with stream: s
+
+# Created at 2022-02-16T22:14:20.198
+Unexpected IOException with stream:  
+
+# Created at 2022-02-16T22:14:20.199
+Unexpected IOException with stream: s
+
+# Created at 2022-02-16T22:14:20.201
+Unexpected IOException with stream: t
+
+# Created at 2022-02-16T22:14:20.203
+Unexpected IOException with stream: a
+
+# Created at 2022-02-16T22:14:20.205
+Unexpected IOException with stream: r
+
+# Created at 2022-02-16T22:14:20.206
+Unexpected IOException with stream: t
+
+# Created at 2022-02-16T22:14:20.208
+Unexpected IOException with stream: e
+
+# Created at 2022-02-16T22:14:20.209
+Unexpected IOException with stream: d
+
+# Created at 2022-02-16T22:14:20.210
+Unexpected IOException with stream:  
+
+# Created at 2022-02-16T22:14:20.211
+Unexpected IOException with stream: s
+
+# Created at 2022-02-16T22:14:20.212
+Unexpected IOException with stream: u
+
+# Created at 2022-02-16T22:14:20.214
+Unexpected IOException with stream: c
+
+# Created at 2022-02-16T22:14:20.216
+Unexpected IOException with stream: c
+
+# Created at 2022-02-16T22:14:20.218
+Unexpected IOException with stream: e
+
+# Created at 2022-02-16T22:14:20.220
+Unexpected IOException with stream: s
+
+# Created at 2022-02-16T22:14:20.222
+Unexpected IOException with stream: s
+
+# Created at 2022-02-16T22:14:20.224
+Unexpected IOException with stream: f
+
+# Created at 2022-02-16T22:14:20.227
+Unexpected IOException with stream: u
+
+# Created at 2022-02-16T22:14:20.229
+Unexpected IOException with stream: l
+
+# Created at 2022-02-16T22:14:20.231
+Unexpected IOException with stream: l
+
+# Created at 2022-02-16T22:14:20.233
+Unexpected IOException with stream: y
+
+# Created at 2022-02-16T22:14:20.234
+Unexpected IOException with stream: .
+
+# Created at 2022-02-16T22:14:20.235
+Unexpected IOException with stream: 
+
+# Created at 2022-02-16T22:14:20.241
+Unexpected IOException with stream: 
+
+
+# Created at 2022-02-16T22:14:20.771
+Unexpected IOException with stream: Şub 16, 2022 10:14:20 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+
+
+# Created at 2022-02-16T22:14:22.626
+Unexpected IOException: 7,1,US_007\0009Bir kullan\0131c\0131 olarak ana sayfaya girdi\011Fimde\002C "Pop\00FCler \0130lanlar" b\00F6l\00FCm\00FCn\00FC g\00F6rebilmeliyim.,TC_004_US_007\0009"Ev De\011Fi\015Fimi"\002C "Oda Kirala" and "Bed & Breakfast" should contain only its own posts. #1(US_007\0009Bir kullan\0131c\0131 olarak ana sayfaya girdi\011Fimde\002C "Pop\00FCler \0130lanlar" b\00F6l\00FCm\00FCn\00FC g\00F6rebilmeliyim.),null,Failed to instantiate class step_definitions.US07_StepDef,null,Failed to instantiate class step_definitions.US07_StepDef,Failed to instantiate class step_definitions.US07_StepDef,io.cucumber.core.exception.CucumberException: Failed to instantiate class step_definitions.US07_StepDef\000ACaused by: java.lang.reflect.InvocationTargetException\000ACaused by: org.openqa.selenium.NoSuchWindowException: \000Ano such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=98.0.4758.82)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'DESKTOP-CFSA1I0'\002C ip: '192.168.142.1'\002C os.name: 'Windows 10'\002C os.arch: 'x86'\002C os.version: '10.0'\002C java.version: '1.8.0_291'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 98.0.4758.82\002C chrome: {chromedriverVersion: 98.0.4758.102 (273bf7ac8c90...\002C userDataDir: C:\005CUsers\005Cceng\005CAppData\005CLocal...}\002C goog:chromeOptions: {debuggerAddress: localhost:52686}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: d185039acc361c24f979b53c0356c3b2\000A
+
+
+# Created at 2022-02-16T22:14:22.629
+Unexpected IOException: 7,1,US_007\0009Bir kullan\0131c\0131 olarak ana sayfaya girdi\011Fimde\002C "Pop\00FCler \0130lanlar" b\00F6l\00FCm\00FCn\00FC g\00F6rebilmeliyim.,TC_004_US_007\0009"Ev De\011Fi\015Fimi"\002C "Oda Kirala" and "Bed & Breakfast" should contain only its own posts. #1(US_007\0009Bir kullan\0131c\0131 olarak ana sayfaya girdi\011Fimde\002C "Pop\00FCler \0130lanlar" b\00F6l\00FCm\00FCn\00FC g\00F6rebilmeliyim.),null,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=98.0.4758.82)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'DESKTOP-CFSA1I0'\002C ip: '192.168.142.1'\002C os.name: 'Windows 10'\002C os.arch: 'x86'\002C os.version: '10.0'\002C java.version: '1.8.0_291'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 98.0.4758.82\002C chrome: {chromedriverVersion: 98.0.4758.102 (273bf7ac8c90...\002C userDataDir: C:\005CUsers\005Cceng\005CAppData\005CLocal...}\002C goog:chromeOptions: {debuggerAddress: localhost:52686}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: d185039acc361c24f979b53c0356c3b2,null,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=98.0.4758.82)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'DESKTOP-CFSA1I0'\002C ip: '192.168.142.1'\002C os.name: 'Windows 10'\002C os.arch: 'x86'\002C os.version: '10.0'\002C java.version: '1.8.0_291'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 98.0.4758.82\002C chrome: {chromedriverVersion: 98.0.4758.102 (273bf7ac8c90...\002C userDataDir: C:\005CUsers\005Cceng\005CAppData\005CLocal...}\002C goog:chromeOptions: {debuggerAddress: localhost:52686}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: d185039acc361c24f979b53c0356c3b2,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=98.0.4758.82)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'DESKTOP-CFSA1I0'\002C ip: '192.168.142.1'\002C os.name: 'Windows 10'\002C os.arch: 'x86'\002C os.version: '10.0'\002C java.version: '1.8.0_291'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 98.0.4758.82\002C chrome: {chromedriverVersion: 98.0.4758.102 (273bf7ac8c90...\002C userDataDir: C:\005CUsers\005Cceng\005CAppData\005CLocal...}\002C goog:chromeOptions: {debuggerAddress: localhost:52686}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: d185039acc361c24f979b53c0356c3b2,org.openqa.selenium.NoSuchWindowException: \000Ano such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=98.0.4758.82)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'DESKTOP-CFSA1I0'\002C ip: '192.168.142.1'\002C os.name: 'Windows 10'\002C os.arch: 'x86'\002C os.version: '10.0'\002C java.version: '1.8.0_291'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 98.0.4758.82\002C chrome: {chromedriverVersion: 98.0.4758.102 (273bf7ac8c90...\002C userDataDir: C:\005CUsers\005Cceng\005CAppData\005CLocal...}\002C goog:chromeOptions: {debuggerAddress: localhost:52686}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: d185039acc361c24f979b53c0356c3b2\000A
+
+
+# Created at 2022-02-16T22:14:22.632
+Unexpected IOException: 5,1,US_007\0009Bir kullan\0131c\0131 olarak ana sayfaya girdi\011Fimde\002C "Pop\00FCler \0130lanlar" b\00F6l\00FCm\00FCn\00FC g\00F6rebilmeliyim.,TC_004_US_007\0009"Ev De\011Fi\015Fimi"\002C "Oda Kirala" and "Bed & Breakfast" should contain only its own posts. #2(US_007\0009Bir kullan\0131c\0131 olarak ana sayfaya girdi\011Fimde\002C "Pop\00FCler \0130lanlar" b\00F6l\00FCm\00FCn\00FC g\00F6rebilmeliyim.),null,null,null
+
+
+# Created at 2022-02-16T22:14:22.745
+Unexpected IOException: 7,1,US_007\0009Bir kullan\0131c\0131 olarak ana sayfaya girdi\011Fimde\002C "Pop\00FCler \0130lanlar" b\00F6l\00FCm\00FCn\00FC g\00F6rebilmeliyim.,TC_004_US_007\0009"Ev De\011Fi\015Fimi"\002C "Oda Kirala" and "Bed & Breakfast" should contain only its own posts. #2(US_007\0009Bir kullan\0131c\0131 olarak ana sayfaya girdi\011Fimde\002C "Pop\00FCler \0130lanlar" b\00F6l\00FCm\00FCn\00FC g\00F6rebilmeliyim.),null,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=98.0.4758.82)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'DESKTOP-CFSA1I0'\002C ip: '192.168.142.1'\002C os.name: 'Windows 10'\002C os.arch: 'x86'\002C os.version: '10.0'\002C java.version: '1.8.0_291'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 98.0.4758.82\002C chrome: {chromedriverVersion: 98.0.4758.102 (273bf7ac8c90...\002C userDataDir: C:\005CUsers\005Cceng\005CAppData\005CLocal...}\002C goog:chromeOptions: {debuggerAddress: localhost:52686}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: d185039acc361c24f979b53c0356c3b2,null,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=98.0.4758.82)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'DESKTOP-CFSA1I0'\002C ip: '192.168.142.1'\002C os.name: 'Windows 10'\002C os.arch: 'x86'\002C os.version: '10.0'\002C java.version: '1.8.0_291'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 98.0.4758.82\002C chrome: {chromedriverVersion: 98.0.4758.102 (273bf7ac8c90...\002C userDataDir: C:\005CUsers\005Cceng\005CAppData\005CLocal...}\002C goog:chromeOptions: {debuggerAddress: localhost:52686}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: d185039acc361c24f979b53c0356c3b2,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=98.0.4758.82)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'DESKTOP-CFSA1I0'\002C ip: '192.168.142.1'\002C os.name: 'Windows 10'\002C os.arch: 'x86'\002C os.version: '10.0'\002C java.version: '1.8.0_291'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 98.0.4758.82\002C chrome: {chromedriverVersion: 98.0.4758.102 (273bf7ac8c90...\002C userDataDir: C:\005CUsers\005Cceng\005CAppData\005CLocal...}\002C goog:chromeOptions: {debuggerAddress: localhost:52686}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: d185039acc361c24f979b53c0356c3b2,org.openqa.selenium.NoSuchWindowException: \000Ano such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=98.0.4758.82)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'DESKTOP-CFSA1I0'\002C ip: '192.168.142.1'\002C os.name: 'Windows 10'\002C os.arch: 'x86'\002C os.version: '10.0'\002C java.version: '1.8.0_291'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 98.0.4758.82\002C chrome: {chromedriverVersion: 98.0.4758.102 (273bf7ac8c90...\002C userDataDir: C:\005CUsers\005Cceng\005CAppData\005CLocal...}\002C goog:chromeOptions: {debuggerAddress: localhost:52686}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: d185039acc361c24f979b53c0356c3b2\000A
+
+
+# Created at 2022-02-16T22:14:22.750
+Unexpected IOException: 7,1,US_007\0009Bir kullan\0131c\0131 olarak ana sayfaya girdi\011Fimde\002C "Pop\00FCler \0130lanlar" b\00F6l\00FCm\00FCn\00FC g\00F6rebilmeliyim.,TC_004_US_007\0009"Ev De\011Fi\015Fimi"\002C "Oda Kirala" and "Bed & Breakfast" should contain only its own posts. #2(US_007\0009Bir kullan\0131c\0131 olarak ana sayfaya girdi\011Fimde\002C "Pop\00FCler \0130lanlar" b\00F6l\00FCm\00FCn\00FC g\00F6rebilmeliyim.),null,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=98.0.4758.82)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'DESKTOP-CFSA1I0'\002C ip: '192.168.142.1'\002C os.name: 'Windows 10'\002C os.arch: 'x86'\002C os.version: '10.0'\002C java.version: '1.8.0_291'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 98.0.4758.82\002C chrome: {chromedriverVersion: 98.0.4758.102 (273bf7ac8c90...\002C userDataDir: C:\005CUsers\005Cceng\005CAppData\005CLocal...}\002C goog:chromeOptions: {debuggerAddress: localhost:52686}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: d185039acc361c24f979b53c0356c3b2,null,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=98.0.4758.82)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'DESKTOP-CFSA1I0'\002C ip: '192.168.142.1'\002C os.name: 'Windows 10'\002C os.arch: 'x86'\002C os.version: '10.0'\002C java.version: '1.8.0_291'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 98.0.4758.82\002C chrome: {chromedriverVersion: 98.0.4758.102 (273bf7ac8c90...\002C userDataDir: C:\005CUsers\005Cceng\005CAppData\005CLocal...}\002C goog:chromeOptions: {debuggerAddress: localhost:52686}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: d185039acc361c24f979b53c0356c3b2,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=98.0.4758.82)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'DESKTOP-CFSA1I0'\002C ip: '192.168.142.1'\002C os.name: 'Windows 10'\002C os.arch: 'x86'\002C os.version: '10.0'\002C java.version: '1.8.0_291'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 98.0.4758.82\002C chrome: {chromedriverVersion: 98.0.4758.102 (273bf7ac8c90...\002C userDataDir: C:\005CUsers\005Cceng\005CAppData\005CLocal...}\002C goog:chromeOptions: {debuggerAddress: localhost:52686}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: d185039acc361c24f979b53c0356c3b2,org.openqa.selenium.NoSuchWindowException: \000Ano such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=98.0.4758.82)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'DESKTOP-CFSA1I0'\002C ip: '192.168.142.1'\002C os.name: 'Windows 10'\002C os.arch: 'x86'\002C os.version: '10.0'\002C java.version: '1.8.0_291'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 98.0.4758.82\002C chrome: {chromedriverVersion: 98.0.4758.102 (273bf7ac8c90...\002C userDataDir: C:\005CUsers\005Cceng\005CAppData\005CLocal...}\002C goog:chromeOptions: {debuggerAddress: localhost:52686}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: d185039acc361c24f979b53c0356c3b2\000A
+
+
+# Created at 2022-02-16T22:14:22.758
+Unexpected IOException: 5,1,US_007\0009Bir kullan\0131c\0131 olarak ana sayfaya girdi\011Fimde\002C "Pop\00FCler \0130lanlar" b\00F6l\00FCm\00FCn\00FC g\00F6rebilmeliyim.,TC_004_US_007\0009"Ev De\011Fi\015Fimi"\002C "Oda Kirala" and "Bed & Breakfast" should contain only its own posts. #3(US_007\0009Bir kullan\0131c\0131 olarak ana sayfaya girdi\011Fimde\002C "Pop\00FCler \0130lanlar" b\00F6l\00FCm\00FCn\00FC g\00F6rebilmeliyim.),null,null,null
+
+
+# Created at 2022-02-16T22:14:22.825
+Unexpected IOException: 7,1,US_007\0009Bir kullan\0131c\0131 olarak ana sayfaya girdi\011Fimde\002C "Pop\00FCler \0130lanlar" b\00F6l\00FCm\00FCn\00FC g\00F6rebilmeliyim.,TC_004_US_007\0009"Ev De\011Fi\015Fimi"\002C "Oda Kirala" and "Bed & Breakfast" should contain only its own posts. #3(US_007\0009Bir kullan\0131c\0131 olarak ana sayfaya girdi\011Fimde\002C "Pop\00FCler \0130lanlar" b\00F6l\00FCm\00FCn\00FC g\00F6rebilmeliyim.),null,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=98.0.4758.82)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'DESKTOP-CFSA1I0'\002C ip: '192.168.142.1'\002C os.name: 'Windows 10'\002C os.arch: 'x86'\002C os.version: '10.0'\002C java.version: '1.8.0_291'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 98.0.4758.82\002C chrome: {chromedriverVersion: 98.0.4758.102 (273bf7ac8c90...\002C userDataDir: C:\005CUsers\005Cceng\005CAppData\005CLocal...}\002C goog:chromeOptions: {debuggerAddress: localhost:52686}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: d185039acc361c24f979b53c0356c3b2,null,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=98.0.4758.82)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'DESKTOP-CFSA1I0'\002C ip: '192.168.142.1'\002C os.name: 'Windows 10'\002C os.arch: 'x86'\002C os.version: '10.0'\002C java.version: '1.8.0_291'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 98.0.4758.82\002C chrome: {chromedriverVersion: 98.0.4758.102 (273bf7ac8c90...\002C userDataDir: C:\005CUsers\005Cceng\005CAppData\005CLocal...}\002C goog:chromeOptions: {debuggerAddress: localhost:52686}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: d185039acc361c24f979b53c0356c3b2,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=98.0.4758.82)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'DESKTOP-CFSA1I0'\002C ip: '192.168.142.1'\002C os.name: 'Windows 10'\002C os.arch: 'x86'\002C os.version: '10.0'\002C java.version: '1.8.0_291'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 98.0.4758.82\002C chrome: {chromedriverVersion: 98.0.4758.102 (273bf7ac8c90...\002C userDataDir: C:\005CUsers\005Cceng\005CAppData\005CLocal...}\002C goog:chromeOptions: {debuggerAddress: localhost:52686}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: d185039acc361c24f979b53c0356c3b2,org.openqa.selenium.NoSuchWindowException: \000Ano such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=98.0.4758.82)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'DESKTOP-CFSA1I0'\002C ip: '192.168.142.1'\002C os.name: 'Windows 10'\002C os.arch: 'x86'\002C os.version: '10.0'\002C java.version: '1.8.0_291'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 98.0.4758.82\002C chrome: {chromedriverVersion: 98.0.4758.102 (273bf7ac8c90...\002C userDataDir: C:\005CUsers\005Cceng\005CAppData\005CLocal...}\002C goog:chromeOptions: {debuggerAddress: localhost:52686}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: d185039acc361c24f979b53c0356c3b2\000A
+
+
+# Created at 2022-02-16T22:14:22.828
+Unexpected IOException: 7,1,US_007\0009Bir kullan\0131c\0131 olarak ana sayfaya girdi\011Fimde\002C "Pop\00FCler \0130lanlar" b\00F6l\00FCm\00FCn\00FC g\00F6rebilmeliyim.,TC_004_US_007\0009"Ev De\011Fi\015Fimi"\002C "Oda Kirala" and "Bed & Breakfast" should contain only its own posts. #3(US_007\0009Bir kullan\0131c\0131 olarak ana sayfaya girdi\011Fimde\002C "Pop\00FCler \0130lanlar" b\00F6l\00FCm\00FCn\00FC g\00F6rebilmeliyim.),null,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=98.0.4758.82)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'DESKTOP-CFSA1I0'\002C ip: '192.168.142.1'\002C os.name: 'Windows 10'\002C os.arch: 'x86'\002C os.version: '10.0'\002C java.version: '1.8.0_291'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 98.0.4758.82\002C chrome: {chromedriverVersion: 98.0.4758.102 (273bf7ac8c90...\002C userDataDir: C:\005CUsers\005Cceng\005CAppData\005CLocal...}\002C goog:chromeOptions: {debuggerAddress: localhost:52686}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: d185039acc361c24f979b53c0356c3b2,null,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=98.0.4758.82)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'DESKTOP-CFSA1I0'\002C ip: '192.168.142.1'\002C os.name: 'Windows 10'\002C os.arch: 'x86'\002C os.version: '10.0'\002C java.version: '1.8.0_291'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 98.0.4758.82\002C chrome: {chromedriverVersion: 98.0.4758.102 (273bf7ac8c90...\002C userDataDir: C:\005CUsers\005Cceng\005CAppData\005CLocal...}\002C goog:chromeOptions: {debuggerAddress: localhost:52686}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: d185039acc361c24f979b53c0356c3b2,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=98.0.4758.82)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'DESKTOP-CFSA1I0'\002C ip: '192.168.142.1'\002C os.name: 'Windows 10'\002C os.arch: 'x86'\002C os.version: '10.0'\002C java.version: '1.8.0_291'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 98.0.4758.82\002C chrome: {chromedriverVersion: 98.0.4758.102 (273bf7ac8c90...\002C userDataDir: C:\005CUsers\005Cceng\005CAppData\005CLocal...}\002C goog:chromeOptions: {debuggerAddress: localhost:52686}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: d185039acc361c24f979b53c0356c3b2,org.openqa.selenium.NoSuchWindowException: \000Ano such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=98.0.4758.82)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'DESKTOP-CFSA1I0'\002C ip: '192.168.142.1'\002C os.name: 'Windows 10'\002C os.arch: 'x86'\002C os.version: '10.0'\002C java.version: '1.8.0_291'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 98.0.4758.82\002C chrome: {chromedriverVersion: 98.0.4758.102 (273bf7ac8c90...\002C userDataDir: C:\005CUsers\005Cceng\005CAppData\005CLocal...}\002C goog:chromeOptions: {debuggerAddress: localhost:52686}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: d185039acc361c24f979b53c0356c3b2\000A
+
+
+# Created at 2022-02-16T22:14:22.830
+Unexpected IOException: 5,1,US_082\0009Bir kullan\0131c\0131 olarak "/api/user/account" sayfas\0131na "post" tipinde ba\011Fland\0131\011F\0131mda g\00F6nderdi\011Fim bilgiler ile kullan\0131c\0131 olu\015Fturulmal\0131d\0131r.,TC_001_US_082_positive(US_082\0009Bir kullan\0131c\0131 olarak "/api/user/account" sayfas\0131na "post" tipinde ba\011Fland\0131\011F\0131mda g\00F6nderdi\011Fim bilgiler ile kullan\0131c\0131 olu\015Fturulmal\0131d\0131r.),null,null,null
+
+
+# Created at 2022-02-16T22:14:27.382
+Unexpected IOException with stream: {
+    "sonuc": true
+}
+
+
+# Created at 2022-02-16T22:14:27.384
+Unexpected IOException: 6,1,US_082\0009Bir kullan\0131c\0131 olarak "/api/user/account" sayfas\0131na "post" tipinde ba\011Fland\0131\011F\0131mda g\00F6nderdi\011Fim bilgiler ile kullan\0131c\0131 olu\015Fturulmal\0131d\0131r.,TC_001_US_082_positive(US_082\0009Bir kullan\0131c\0131 olarak "/api/user/account" sayfas\0131na "post" tipinde ba\011Fland\0131\011F\0131mda g\00F6nderdi\011Fim bilgiler ile kullan\0131c\0131 olu\015Fturulmal\0131d\0131r.),null,null,null
+
+
+# Created at 2022-02-16T22:14:27.387
+Unexpected IOException: 5,1,US_082\0009Bir kullan\0131c\0131 olarak "/api/user/account" sayfas\0131na "post" tipinde ba\011Fland\0131\011F\0131mda g\00F6nderdi\011Fim bilgiler ile kullan\0131c\0131 olu\015Fturulmal\0131d\0131r.,TC_002_US_082_negative1(US_082\0009Bir kullan\0131c\0131 olarak "/api/user/account" sayfas\0131na "post" tipinde ba\011Fland\0131\011F\0131mda g\00F6nderdi\011Fim bilgiler ile kullan\0131c\0131 olu\015Fturulmal\0131d\0131r.),null,null,null
+
+
+# Created at 2022-02-16T22:14:28.107
+Unexpected IOException with stream: {
+    "sonuc": "email"
+}
+
+
+# Created at 2022-02-16T22:14:28.109
+Unexpected IOException: 6,1,US_082\0009Bir kullan\0131c\0131 olarak "/api/user/account" sayfas\0131na "post" tipinde ba\011Fland\0131\011F\0131mda g\00F6nderdi\011Fim bilgiler ile kullan\0131c\0131 olu\015Fturulmal\0131d\0131r.,TC_002_US_082_negative1(US_082\0009Bir kullan\0131c\0131 olarak "/api/user/account" sayfas\0131na "post" tipinde ba\011Fland\0131\011F\0131mda g\00F6nderdi\011Fim bilgiler ile kullan\0131c\0131 olu\015Fturulmal\0131d\0131r.),null,null,null
+
+
+# Created at 2022-02-16T22:14:28.110
+Unexpected IOException: 5,1,US_082\0009Bir kullan\0131c\0131 olarak "/api/user/account" sayfas\0131na "post" tipinde ba\011Fland\0131\011F\0131mda g\00F6nderdi\011Fim bilgiler ile kullan\0131c\0131 olu\015Fturulmal\0131d\0131r.,TC_003_US_082_negative2(US_082\0009Bir kullan\0131c\0131 olarak "/api/user/account" sayfas\0131na "post" tipinde ba\011Fland\0131\011F\0131mda g\00F6nderdi\011Fim bilgiler ile kullan\0131c\0131 olu\015Fturulmal\0131d\0131r.),null,null,null
+
+
+# Created at 2022-02-16T22:14:28.961
+Unexpected IOException with stream: {
+    "sonuc": "hata"
+}
+
+
+# Created at 2022-02-16T22:14:28.962
+Unexpected IOException: 6,1,US_082\0009Bir kullan\0131c\0131 olarak "/api/user/account" sayfas\0131na "post" tipinde ba\011Fland\0131\011F\0131mda g\00F6nderdi\011Fim bilgiler ile kullan\0131c\0131 olu\015Fturulmal\0131d\0131r.,TC_003_US_082_negative2(US_082\0009Bir kullan\0131c\0131 olarak "/api/user/account" sayfas\0131na "post" tipinde ba\011Fland\0131\011F\0131mda g\00F6nderdi\011Fim bilgiler ile kullan\0131c\0131 olu\015Fturulmal\0131d\0131r.),null,null,null
+
+
+# Created at 2022-02-16T22:14:28.963
+Unexpected IOException: 5,1,US_093\0009Bir kullan\0131c\0131 olarak "/api/homes/homepage/ilans" sayfas\0131na "get" tipinde ba\011Fland\0131\011F\0131mda pop\00FCler ev ilanlar\0131n\0131 g\00F6rebilmeliyim..,TC_001_US_093(US_093\0009Bir kullan\0131c\0131 olarak "/api/homes/homepage/ilans" sayfas\0131na "get" tipinde ba\011Fland\0131\011F\0131mda pop\00FCler ev ilanlar\0131n\0131 g\00F6rebilmeliyim..),null,null,null
+
+
+# Created at 2022-02-16T22:14:29.589
+Unexpected IOException with stream: [
+    {
+        "address_list": [
+            "Frankfurt",
+            "Almanya"
+        ],
+        "available_dates": [
+            {
+                "start_date": "2022-01-23T23:00:00.000Z",
+                "end_date": "2022-01-23T23:00:00.000Z"
+            }
+        ],
+        "photos": [
+            "1643038469667-61e7487c89708a2d2af8f390-0.jpg",
+            "1643038469667-61e7487c89708a2d2af8f390-1.jpg",
+            "1643038469667-61e7487c89708a2d2af8f390-2.jpg",
+            "1643038469667-61e7487c89708a2d2af8f390-3.jpg",
+            "1643038469667-61e7487c89708a2d2af8f390-4.jpg",
+            "1643038469667-61e7487c89708a2d2af8f390-5.jpg",
+            "1643038469667-61e7487c89708a2d2af8f390-6.jpg",
+            "1643038469667-61e7487c89708a2d2af8f390-7.jpg",
+            "1643038469667-61e7487c89708a2d2af8f390-8.jpg"
+        ],
+        "approval": 0,
+        "status": true,
+        "_id": "61eec70589708a2d2afac55a",
+        "user": {
+            "username": "coder52",
+            "id": "61e7487c89708a2d2af8f390"
+        },
+        "tip": 0,
+        "address": {
+            "label": "Frankfurt, Almanya",
+            "list": [
+                "Frankfurt",
+                "Almanya"
+            ],
+            "placeId": "ChIJxZZwR28JvUcRAMawKVBDIgQ"
+        },
+        "otobus": "0",
+        "tren": "0",
+        "tramway": "0",
+        "arac": 2,
+        "surface_area": 50,
+        "bedrooms": 1,
+        "bathrooms": 0,
+        "toilets": 0,
+        "salon": 0,
+        "singlebeds": 1,
+        "doublebeds": 0,
+        "childbeds": 0,
+        "babybeds": 0,
+        "single_putup": 0,
+        "double_putup": 0,
+        "child_putup": 0,
+        "cribs": 0,
+        "tv": 1,
+        "wifi": 0,
+        "teras": 0,
+        "dishwasher": 0,
+        "dryer": 0,
+        "warehouse": 0,
+        "washing_machine": 0,
+        "microwave_oven": 0,
+        "baby_gear": 0,
+        "computer": 0,
+        "private_garden": 0,
+        "bbq": 0,
+        "ac": 0,
+        "lift": 0,
+        "private_parking_space": 0,
+        "private_parking_space_paid": 0,
+        "bicycle": 0,
+        "bicycle_child": 0,
+        "video_game_console": 0,
+        "balcony": 0,
+        "home_description": "My home, sweet home.",
+        "lunapark": 0,
+        "plaj": 0,
+        "bisiklet": 0,
+        "muzeler": 1,
+        "baliktutma": 0,
+        "kayakyapma": 0,
+        "sporsalonu": 0,
+        "dogayuruyusu": 0,
+        "meydan": 0,
+        "oyunparki": 0,
+        "helalrestorant": 0,
+        "avm": 0,
+        "sinema": 0,
+        "camii": 0,
+        "child": true,
+        "pet": true,
+        "cigarette": true,
+        "carexchange": true,
+        "petcare": true,
+        "plantcare": true,
+        "placeId": "ChIJxZZwR28JvUcRAMawKVBDIgQ",
+        "okunmasayisi": 433404,
+        "createdAt": "2022-01-24T15:34:29.676Z",
+        "updatedAt": "2022-02-14T15:36:54.011Z",
+        "__v": 0
+    },
+    {
+        "address_list": [
+            "Rue de l'Arnon",
+            "Sainte-Croix",
+            "Switzerland"
+        ],
+        "available_dates": [
+            {
+                "start_date": "2022-01-04T05:00:00.000Z",
+                "end_date": "2022-01-04T05:00:00.000Z"
+            }
+        ],
+        "photos": [
+            "1643970334328-61f945d28ca7ec436c5c38cb-0.jpg",
+            "1643970334328-61f945d28ca7ec436c5c38cb-1.jpg",
+            "1643970334328-61f945d28ca7ec436c5c38cb-2.jpg",
+            "1643970334328-61f945d28ca7ec436c5c38cb-3.jpg",
+            "1643970334328-61f945d28ca7ec436c5c38cb-4.jpg"
+        ],
+        "approval": 0,
+        "status": true,
+        "_id": "61fcff1e6606cd38918e7595",
+        "user": {
+            "username": "aykut",
+            "id": "61f945d28ca7ec436c5c38cb"
+        },
+        "address": {
+            "label": "Rue de l'Arnon, Sainte-Croix, Switzerland",
+            "list": [
+                "Rue de l'Arnon",
+                "Sainte-Croix",
+                "Switzerland"
+            ],
+            "placeId": "Ei5SdWUgZGUgbCdBcm5vbiwgMTQ1MCBTYWludGUtQ3JvaXgsIFN3aXR6ZXJsYW5kIi4qLAoUChIJh62G63a4jUcR2t4HEFElbIoSFAoSCbc_icRkuI1HEeWIqvIIYsk6"
+        },
+        "tip": 1,
+        "otobus": "1",
+        "tren": "1",
+        "tramway": "1",
+        "arac": 0,
+        "surface_area": 0,
+        "bedrooms": 5,
+        "bathrooms": 5,
+        "toilets": 5,
+        "singlebeds": 5,
+        "doublebeds": 5,
+        "childbeds": 5,
+        "babybeds": 5,
+        "single_putup": 4,
+        "double_putup": 3,
+        "child_putup": 2,
+        "cribs": 3,
+        "salon": 2,
+        "teras": 0,
+        "tv": 0,
+        "wifi": 0,
+        "dishwasher": 0,
+        "dryer": 0,
+        "washing_machine": 0,
+        "microwave_oven": 1,
+        "baby_gear": 1,
+        "computer": 0,
+        "private_garden": 1,
+        "bbq": 0,
+        "ac": 0,
+        "private_parking_space": 1,
+        "private_parking_space_paid": 1,
+        "bicycle_child": 0,
+        "bicycle": 1,
+        "video_game_console": 1,
+        "balcony": 0,
+        "lift": 1,
+        "warehouse": 0,
+        "lunapark": 0,
+        "plaj": 1,
+        "bisiklet": 0,
+        "muzeler": 0,
+        "baliktutma": 1,
+        "kayakyapma": 1,
+        "sporsalonu": 1,
+        "dogayuruyusu": 0,
+        "meydan": 1,
+        "oyunparki": 0,
+        "helalrestorant": 1,
+        "avm": 0,
+        "sinema": 1,
+        "child": true,
+        "pet": false,
+        "cigarette": true,
+        "camii": 1,
+        "carexchange": true,
+        "petcare": true,
+        "plantcare": true,
+        "home_description": "Switzerland",
+        "placeId": "Ei5SdWUgZGUgbCdBcm5vbiwgMTQ1MCBTYWludGUtQ3JvaXgsIFN3aXR6ZXJsYW5kIi4qLAoUChIJh62G63a4jUcR2t4HEFElbIoSFAoSCbc_icRkuI1HEeWIqvIIYsk6",
+        "okunmasayisi": 389104,
+        "createdAt": "2022-02-04T10:25:34.333Z",
+        "updatedAt": "2022-02-14T23:52:20.242Z",
+        "__v": 0
+    },
+    {
+        "address_list": [
+            "Amsterdam",
+            "Hollanda"
+        ],
+        "available_dates": [
+            {
+                "start_date": "2022-02-09T21:00:00.000Z",
+                "end_date": "2022-02-14T21:00:00.000Z"
+            }
+        ],
+        "photos": [
+            "1644057306541-613685f3a7eef55f0dca4f2e-0.jpg",
+            "1644057306541-613685f3a7eef55f0dca4f2e-1.jpg",
+            "1644057306541-613685f3a7eef55f0dca4f2e-2.jpg",
+            "1644057306541-613685f3a7eef55f0dca4f2e-3.jpg",
+            "1644057306541-613685f3a7eef55f0dca4f2e-4.jpg"
+        ],
+        "approval": 0,
+        "status": true,
+        "_id": "61fe52dae970093ad0e4bef3",
+        "user": {
+            "username": "admin",
+            "id": "613685f3a7eef55f0dca4f2e"
+        },
+        "tip": 0,
+        "address": {
+            "label": "Amsterdam, Hollanda",
+            "list": [
+                "Amsterdam",
+                "Hollanda"
+            ],
+            "placeId": "ChIJVXealLU_xkcRja_At0z9AGY"
+        },
+        "otobus": "0",
+        "tren": "0",
+        "tramway": "0",
+        "arac": 2,
+        "surface_area": 120,
+        "bedrooms": 1,
+        "bathrooms": 0,
+        "toilets": 0,
+        "salon": 0,
+        "singlebeds": 1,
+        "doublebeds": 0,
+        "childbeds": 0,
+        "babybeds": 0,
+        "single_putup": 0,
+        "double_putup": 0,
+        "child_putup": 0,
+        "cribs": 0,
+        "tv": 0,
+        "wifi": 0,
+        "teras": 0,
+        "dishwasher": 1,
+        "dryer": 0,
+        "warehouse": 0,
+        "washing_machine": 0,
+        "microwave_oven": 0,
+        "baby_gear": 0,
+        "computer": 0,
+        "private_garden": 0,
+        "bbq": 0,
+        "ac": 0,
+        "lift": 0,
+        "private_parking_space": 0,
+        "private_parking_space_paid": 0,
+        "bicycle": 1,
+        "bicycle_child": 0,
+        "video_game_console": 0,
+        "balcony": 0,
+        "home_description": "asdf",
+        "lunapark": 0,
+        "plaj": 0,
+        "bisiklet": 0,
+        "muzeler": 1,
+        "baliktutma": 0,
+        "kayakyapma": 0,
+        "sporsalonu": 0,
+        "dogayuruyusu": 0,
+        "meydan": 0,
+        "oyunparki": 0,
+        "helalrestorant": 0,
+        "avm": 0,
+        "sinema": 0,
+        "camii": 0,
+        "child": false,
+        "pet": true,
+        "cigarette": false,
+        "carexchange": true,
+        "petcare": false,
+        "plantcare": true,
+        "small": "1644057306541-613685f3a7eef55f0dca4f2e-0_small.jpg",
+        "placeId": "ChIJVXealLU_xkcRja_At0z9AGY",
+        "okunmasayisi": 259422,
+        "createdAt": "2022-02-05T10:35:06.712Z",
+        "updatedAt": "2022-02-16T18:58:20.894Z",
+        "__v": 0
+    },
+    {
+        "address_list": [
+            "Terborg",
+            "Hollanda"
+        ],
+        "available_dates": [
+            {
+                "start_date": "2022-01-19T23:00:00.000Z",
+                "end_date": "2022-01-21T23:00:00.000Z"
+            },
+            {
+                "start_date": "2021-12-22T23:00:00.000Z",
+                "end_date": "2021-12-24T23:00:00.000Z"
+            }
+        ],
+        "photos": [
+            "1640895792199-6137264d4b593561085ff1af-0.jpg",
+            "1640895792199-6137264d4b593561085ff1af-1.jpg",
+            "1640895792199-6137264d4b593561085ff1af-2.jpg",
+            "1640895792199-6137264d4b593561085ff1af-3.jpg",
+            "1640895792199-6137264d4b593561085ff1af-4.jpg",
+            "1640895792199-6137264d4b593561085ff1af-5.jpg",
+            "1640895792199-6137264d4b593561085ff1af-6.jpg",
+            "1640895792199-6137264d4b593561085ff1af-7.jpg",
+            "1640895792199-6137264d4b593561085ff1af-8.jpg",
+            "1640895792199-6137264d4b593561085ff1af-9.jpg"
+        ],
+        "approval": 0,
+        "status": true,
+        "_id": "61ce153089708a2d2aeae03e",
+        "user": {
+            "username": "kenan",
+            "id": "6137264d4b593561085ff1af"
+        },
+        "tip": 0,
+        "address": {
+            "label": "Terborg, Hollanda",
+            "list": [
+                "Terborg",
+                "Hollanda"
+            ],
+            "placeId": "ChIJzYyWgPKDx0cRvpf6zhwKU0I"
+        },
+        "otobus": "1.1",
+        "tren": "2",
+        "tramway": "0",
+        "arac": 0,
+        "surface_area": 117,
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "toilets": 2,
+        "salon": 1,
+        "singlebeds": 2,
+        "doublebeds": 0,
+        "childbeds": 0,
+        "babybeds": 0,
+        "single_putup": 0,
+        "double_putup": 2,
+        "child_putup": 0,
+        "cribs": 1,
+        "tv": 0,
+        "wifi": 1,
+        "teras": 0,
+        "dishwasher": 1,
+        "dryer": 1,
+        "warehouse": 0,
+        "washing_machine": 1,
+        "microwave_oven": 1,
+        "baby_gear": 1,
+        "computer": 1,
+        "private_garden": 1,
+        "bbq": 1,
+        "ac": 0,
+        "lift": 0,
+        "private_parking_space": 1,
+        "private_parking_space_paid": 0,
+        "bicycle": 1,
+        "bicycle_child": 1,
+        "video_game_console": 0,
+        "balcony": 0,
+        "home_description": "Evim cok ozeldir",
+        "lunapark": 0,
+        "plaj": 1,
+        "bisiklet": 1,
+        "muzeler": 0,
+        "baliktutma": 1,
+        "kayakyapma": 0,
+        "sporsalonu": 1,
+        "dogayuruyusu": 1,
+        "meydan": 0,
+        "oyunparki": 1,
+        "helalrestorant": 0,
+        "avm": 0,
+        "sinema": 0,
+        "camii": 1,
+        "child": true,
+        "pet": false,
+        "cigarette": false,
+        "carexchange": true,
+        "petcare": false,
+        "plantcare": true,
+        "placeId": "ChIJzYyWgPKDx0cRvpf6zhwKU0I",
+        "okunmasayisi": 216358,
+        "createdAt": "2021-12-30T20:23:12.207Z",
+        "updatedAt": "2022-02-16T18:58:42.196Z",
+        "__v": 0
+    },
+    {
+        "address_list": [
+            "Kentucky",
+            "Amerika Birleşik Devletleri"
+        ],
+        "available_dates": [
+            {
+                "start_date": "2022-01-10T05:00:00.000Z",
+                "end_date": "2022-01-10T05:00:00.000Z"
+            }
+        ],
+        "photos": [
+            "1642709410242-61d4beae89708a2d2af4ca66-0.jpg",
+            "1642709410242-61d4beae89708a2d2af4ca66-1.jpg",
+            "1642709410242-61d4beae89708a2d2af4ca66-2.jpg",
+            "1642709410242-61d4beae89708a2d2af4ca66-3.jpg",
+            "1642709410242-61d4beae89708a2d2af4ca66-4.jpg"
+        ],
+        "approval": 0,
+        "status": true,
+        "_id": "61e9c1a289708a2d2afa6e73",
+        "user": {
+            "username": "bilal",
+            "id": "61d4beae89708a2d2af4ca66"
+        },
+        "tip": 2,
+        "address": {
+            "label": "Kentucky, Amerika Birleşik Devletleri",
+            "list": [
+                "Kentucky",
+                "Amerika Birleşik Devletleri"
+            ],
+            "placeId": "ChIJyVMZi0xzQogR_N_MxU5vH3c"
+        },
+        "otobus": "0.01",
+        "tren": "0.01",
+        "tramway": "0.01",
+        "arac": 0,
+        "surface_area": 55,
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "toilets": 1,
+        "salon": 1,
+        "singlebeds": 1,
+        "doublebeds": 1,
+        "childbeds": 1,
+        "babybeds": 1,
+        "single_putup": 1,
+        "double_putup": 1,
+        "child_putup": 1,
+        "cribs": 1,
+        "tv": 0,
+        "wifi": 0,
+        "teras": 0,
+        "dishwasher": 0,
+        "dryer": 0,
+        "warehouse": 0,
+        "washing_machine": 0,
+        "microwave_oven": 0,
+        "baby_gear": 0,
+        "computer": 0,
+        "private_garden": 0,
+        "bbq": 1,
+        "ac": 0,
+        "lift": 1,
+        "private_parking_space": 0,
+        "private_parking_space_paid": 0,
+        "bicycle": 0,
+        "bicycle_child": 0,
+        "video_game_console": 0,
+        "balcony": 0,
+        "home_description": "thrsht",
+        "lunapark": 0,
+        "plaj": 0,
+        "bisiklet": 1,
+        "muzeler": 0,
+        "baliktutma": 0,
+        "kayakyapma": 0,
+        "sporsalonu": 0,
+        "dogayuruyusu": 0,
+        "meydan": 0,
+        "oyunparki": 0,
+        "helalrestorant": 0,
+        "avm": 0,
+        "sinema": 0,
+        "camii": 0,
+        "child": false,
+        "pet": false,
+        "cigarette": false,
+        "carexchange": true,
+        "petcare": true,
+        "plantcare": true,
+        "placeId": "ChIJyVMZi0xzQogR_N_MxU5vH3c",
+        "okunmasayisi": 136934,
+        "createdAt": "2022-01-20T20:10:10.252Z",
+        "updatedAt": "2022-02-09T15:02:21.463Z",
+        "__v": 0
+    },
+    {
+        "address_list": [
+            "Atlanta",
+            "Georgia",
+            "Amerika Birleşik Devletleri"
+        ],
+        "available_dates": [
+            {
+                "start_date": "2022-02-13T23:00:00.000Z",
+                "end_date": "2022-02-17T23:00:00.000Z"
+            },
+            {
+                "start_date": "2022-02-21T23:00:00.000Z",
+                "end_date": "2022-02-25T23:00:00.000Z"
+            }
+        ],
+        "photos": [
+            "1644780474780-613685f3a7eef55f0dca4f2e-0.jpg",
+            "1644780474780-613685f3a7eef55f0dca4f2e-1.jpg",
+            "1644780474780-613685f3a7eef55f0dca4f2e-2.jpg",
+            "1644780474780-613685f3a7eef55f0dca4f2e-3.jpg",
+            "1644780474780-613685f3a7eef55f0dca4f2e-4.jpg",
+            "1644780474780-613685f3a7eef55f0dca4f2e-5.jpg"
+        ],
+        "approval": 0,
+        "status": true,
+        "_id": "62095bba44c42508ff2c59c8",
+        "user": {
+            "username": "admin",
+            "id": "613685f3a7eef55f0dca4f2e"
+        },
+        "tip": 0,
+        "address": {
+            "label": "Atlanta, Georgia, Amerika Birleşik Devletleri",
+            "list": [
+                "Atlanta",
+                "Georgia",
+                "Amerika Birleşik Devletleri"
+            ],
+            "placeId": "ChIJjQmTaV0E9YgRC2MLmS_e_mY"
+        },
+        "otobus": "0",
+        "tren": "0",
+        "tramway": "0",
+        "arac": 2,
+        "surface_area": 15,
+        "bedrooms": 3,
+        "bathrooms": 0,
+        "toilets": 0,
+        "salon": 0,
+        "singlebeds": 3,
+        "doublebeds": 2,
+        "childbeds": 0,
+        "babybeds": 0,
+        "single_putup": 0,
+        "double_putup": 0,
+        "child_putup": 0,
+        "cribs": 0,
+        "tv": 0,
+        "wifi": 0,
+        "teras": 0,
+        "dishwasher": 0,
+        "dryer": 0,
+        "warehouse": 1,
+        "washing_machine": 1,
+        "microwave_oven": 0,
+        "baby_gear": 0,
+        "computer": 0,
+        "private_garden": 0,
+        "bbq": 0,
+        "ac": 0,
+        "lift": 0,
+        "private_parking_space": 0,
+        "private_parking_space_paid": 0,
+        "bicycle": 0,
+        "bicycle_child": 0,
+        "video_game_console": 0,
+        "balcony": 0,
+        "home_description": "fafsgdhfgjhkl",
+        "lunapark": 0,
+        "plaj": 1,
+        "bisiklet": 1,
+        "muzeler": 0,
+        "baliktutma": 1,
+        "kayakyapma": 1,
+        "sporsalonu": 1,
+        "dogayuruyusu": 0,
+        "meydan": 0,
+        "oyunparki": 0,
+        "helalrestorant": 0,
+        "avm": 0,
+        "sinema": 0,
+        "camii": 0,
+        "child": true,
+        "pet": true,
+        "cigarette": true,
+        "carexchange": true,
+        "petcare": true,
+        "plantcare": true,
+        "small": "1644780474780-613685f3a7eef55f0dca4f2e-0_small.jpg",
+        "placeId": "ChIJjQmTaV0E9YgRC2MLmS_e_mY",
+        "okunmasayisi": 136469,
+        "email": "admin@gmail.com",
+        "createdAt": "2022-02-13T19:27:54.856Z",
+        "updatedAt": "2022-02-16T18:59:03.185Z",
+        "__v": 0
+    },
+    {
+        "address_list": [
+            "Terborg",
+            "Hollanda"
+        ],
+        "available_dates": [
+            {
+                "start_date": "2021-12-15T23:00:00.000Z",
+                "end_date": "2021-12-17T23:00:00.000Z"
+            },
+            {
+                "start_date": "2021-12-22T23:00:00.000Z",
+                "end_date": "2021-12-24T23:00:00.000Z"
+            }
+        ],
+        "photos": [
+            "1640948672010-6137264d4b593561085ff1af-0.jpg",
+            "1640948672010-6137264d4b593561085ff1af-1.jpg",
+            "1640948672010-6137264d4b593561085ff1af-2.jpg",
+            "1640948672010-6137264d4b593561085ff1af-3.jpg",
+            "1640948672010-6137264d4b593561085ff1af-4.jpg",
+            "1640948672010-6137264d4b593561085ff1af-5.jpg",
+            "1640948672010-6137264d4b593561085ff1af-6.jpg",
+            "1640948672010-6137264d4b593561085ff1af-7.jpg",
+            "1640948672010-6137264d4b593561085ff1af-8.jpg",
+            "1640948672010-6137264d4b593561085ff1af-9.jpg"
+        ],
+        "approval": 0,
+        "status": true,
+        "_id": "61cee3c089708a2d2aeb1ecf",
+        "user": {
+            "username": "kenan",
+            "id": "6137264d4b593561085ff1af"
+        },
+        "tip": 0,
+        "address": {
+            "label": "Terborg, Hollanda",
+            "list": [
+                "Terborg",
+                "Hollanda"
+            ],
+            "placeId": "ChIJzYyWgPKDx0cRvpf6zhwKU0I"
+        },
+        "otobus": "1",
+        "tren": "2",
+        "tramway": "0",
+        "arac": 0,
+        "surface_area": 117,
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "toilets": 2,
+        "salon": 1,
+        "singlebeds": 1,
+        "doublebeds": 1,
+        "childbeds": 1,
+        "babybeds": 1,
+        "single_putup": 1,
+        "double_putup": 1,
+        "child_putup": 1,
+        "cribs": 1,
+        "tv": 1,
+        "wifi": 1,
+        "teras": 1,
+        "dishwasher": 1,
+        "dryer": 1,
+        "warehouse": 1,
+        "washing_machine": 1,
+        "microwave_oven": 1,
+        "baby_gear": 1,
+        "computer": 1,
+        "private_garden": 1,
+        "bbq": 1,
+        "ac": 1,
+        "lift": 1,
+        "private_parking_space": 1,
+        "private_parking_space_paid": 1,
+        "bicycle": 1,
+        "bicycle_child": 1,
+        "video_game_console": 1,
+        "balcony": 1,
+        "home_description": "fgsfglh;",
+        "lunapark": 1,
+        "plaj": 1,
+        "bisiklet": 1,
+        "muzeler": 1,
+        "baliktutma": 1,
+        "kayakyapma": 1,
+        "sporsalonu": 1,
+        "dogayuruyusu": 1,
+        "meydan": 1,
+        "oyunparki": 1,
+        "helalrestorant": 1,
+        "avm": 1,
+        "sinema": 1,
+        "camii": 1,
+        "child": true,
+        "pet": false,
+        "cigarette": false,
+        "carexchange": true,
+        "petcare": false,
+        "plantcare": true,
+        "placeId": "ChIJzYyWgPKDx0cRvpf6zhwKU0I",
+        "okunmasayisi": 121804,
+        "createdAt": "2021-12-31T11:04:32.018Z",
+        "updatedAt": "2022-02-10T11:59:45.879Z",
+        "__v": 0
+    },
+    {
+        "address_list": [
+            "Rue de l'Arnon",
+            "Sainte-Croix",
+            "Switzerland"
+        ],
+        "available_dates": [
+            {
+                "start_date": "2022-01-04T05:00:00.000Z",
+                "end_date": "2022-01-04T05:00:00.000Z"
+            }
+        ],
+        "photos": [
+            "1644234582872-61f945d28ca7ec436c5c38cb-0.jpg",
+            "1644234582872-61f945d28ca7ec436c5c38cb-1.jpg",
+            "1644234582872-61f945d28ca7ec436c5c38cb-2.jpg",
+            "1644234582872-61f945d28ca7ec436c5c38cb-3.jpg",
+            "1644234582872-61f945d28ca7ec436c5c38cb-4.jpg"
+        ],
+        "approval": 1,
+        "status": true,
+        "_id": "620107561a9c4175c99e97e8",
+        "user": {
+            "username": "aykut",
+            "id": "61f945d28ca7ec436c5c38cb"
+        },
+        "address": {
+            "label": "Rue de l'Arnon, Sainte-Croix, Switzerland",
+            "list": [
+                "Rue de l'Arnon",
+                "Sainte-Croix",
+                "Switzerland"
+            ],
+            "placeId": "Ei5SdWUgZGUgbCdBcm5vbiwgMTQ1MCBTYWludGUtQ3JvaXgsIFN3aXR6ZXJsYW5kIi4qLAoUChIJh62G63a4jUcR2t4HEFElbIoSFAoSCbc_icRkuI1HEeWIqvIIYsk6"
+        },
+        "tip": 1,
+        "otobus": "1",
+        "tren": "1",
+        "tramway": "1",
+        "arac": 0,
+        "surface_area": 0,
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "toilets": 1,
+        "singlebeds": 1,
+        "doublebeds": 1,
+        "childbeds": 1,
+        "babybeds": 1,
+        "single_putup": 1,
+        "double_putup": 1,
+        "child_putup": 1,
+        "cribs": 1,
+        "salon": 1,
+        "teras": 0,
+        "tv": 0,
+        "wifi": 0,
+        "dishwasher": 0,
+        "dryer": 0,
+        "washing_machine": 0,
+        "microwave_oven": 1,
+        "baby_gear": 1,
+        "computer": 0,
+        "private_garden": 1,
+        "bbq": 0,
+        "ac": 0,
+        "private_parking_space": 1,
+        "private_parking_space_paid": 1,
+        "bicycle_child": 0,
+        "bicycle": 1,
+        "video_game_console": 1,
+        "balcony": 0,
+        "lift": 1,
+        "warehouse": 0,
+        "lunapark": 0,
+        "plaj": 1,
+        "bisiklet": 0,
+        "muzeler": 0,
+        "baliktutma": 1,
+        "kayakyapma": 1,
+        "sporsalonu": 1,
+        "dogayuruyusu": 0,
+        "meydan": 1,
+        "oyunparki": 0,
+        "helalrestorant": 1,
+        "avm": 0,
+        "sinema": 1,
+        "child": true,
+        "pet": false,
+        "cigarette": true,
+        "camii": 1,
+        "carexchange": true,
+        "petcare": true,
+        "plantcare": true,
+        "home_description": "deneme",
+        "small": "1644234582872-61f945d28ca7ec436c5c38cb-0_small.jpg",
+        "placeId": "Ei5SdWUgZGUgbCdBcm5vbiwgMTQ1MCBTYWludGUtQ3JvaXgsIFN3aXR6ZXJsYW5kIi4qLAoUChIJh62G63a4jUcR2t4HEFElbIoSFAoSCbc_icRkuI1HEeWIqvIIYsk6",
+        "okunmasayisi": 113661,
+        "createdAt": "2022-02-07T11:49:42.893Z",
+        "updatedAt": "2022-02-14T17:14:34.369Z",
+        "__v": 0
+    }
+]
+
+
+# Created at 2022-02-16T22:14:29.690
+Unexpected IOException with stream: Okunma sayısı : 433404
+
+
+# Created at 2022-02-16T22:14:29.692
+Unexpected IOException with stream: Okunma sayısı : 389104
+
+
+# Created at 2022-02-16T22:14:29.693
+Unexpected IOException with stream: Okunma sayısı : 259422
+
+
+# Created at 2022-02-16T22:14:29.694
+Unexpected IOException with stream: Okunma sayısı : 216358
+
+
+# Created at 2022-02-16T22:14:29.696
+Unexpected IOException with stream: Okunma sayısı : 136934
+
+
+# Created at 2022-02-16T22:14:29.697
+Unexpected IOException with stream: Okunma sayısı : 136469
+
+
+# Created at 2022-02-16T22:14:29.699
+Unexpected IOException with stream: Okunma sayısı : 121804
+
+
+# Created at 2022-02-16T22:14:29.700
+Unexpected IOException with stream: Okunma sayısı : 113661
+
+
+# Created at 2022-02-16T22:14:29.738
+Unexpected IOException: 6,1,US_093\0009Bir kullan\0131c\0131 olarak "/api/homes/homepage/ilans" sayfas\0131na "get" tipinde ba\011Fland\0131\011F\0131mda pop\00FCler ev ilanlar\0131n\0131 g\00F6rebilmeliyim..,TC_001_US_093(US_093\0009Bir kullan\0131c\0131 olarak "/api/homes/homepage/ilans" sayfas\0131na "get" tipinde ba\011Fland\0131\011F\0131mda pop\00FCler ev ilanlar\0131n\0131 g\00F6rebilmeliyim..),null,null,null
+
+
+# Created at 2022-02-16T22:14:29.739
+Unexpected IOException: 5,1,US_094\0009Bir kullan\0131c\0131 olarak "/api/rooms" sayfas\0131na "post" tipinde ba\011Fland\0131\011F\0131mda g\00F6nderilen bilgiler ile yeni bir oda de\011Fi\015Fimi ilan\0131 olu\015Fturabilmeylim.,TC_001_US_094_positive(US_094\0009Bir kullan\0131c\0131 olarak "/api/rooms" sayfas\0131na "post" tipinde ba\011Fland\0131\011F\0131mda g\00F6nderilen bilgiler ile yeni bir oda de\011Fi\015Fimi ilan\0131 olu\015Fturabilmeylim.),null,null,null
+
+
+# Created at 2022-02-16T22:14:31.224
+Unexpected IOException with stream: {
+    "address_list": [
+        "London",
+        "Birle?ik Krall?k"
+    ],
+    "yasaralik": [
+        1,
+        2,
+        3,
+        4
+    ],
+    "available_dates": [
+        {
+            "start_date": "2022-01-04T05:00:00.000Z",
+            "end_date": "2022-01-04T05:00:00.000Z"
+        }
+    ],
+    "photos": [
+        "1645038874635-61d22c3189708a2d2aeeda1c-0.jpg",
+        "1645038874635-61d22c3189708a2d2aeeda1c-1.jpg",
+        "1645038874635-61d22c3189708a2d2aeeda1c-2.jpg",
+        "1645038874635-61d22c3189708a2d2aeeda1c-3.jpg",
+        "1645038874635-61d22c3189708a2d2aeeda1c-4.jpg"
+    ],
+    "approval": 0,
+    "status": true,
+    "_id": "620d4d1a44c42508ff34844c",
+    "membercount": 10,
+    "teras": 1,
+    "tv": 1,
+    "bicycle": 1,
+    "sporsalonu": 1,
+    "microwave_oven": 1,
+    "balcony": 1,
+    "plantcare": true,
+    "camii": 1,
+    "tren": "0",
+    "plaj": 1,
+    "otobus": "0",
+    "tip": 1,
+    "lunapark": 1,
+    "pet": true,
+    "wifi": 1,
+    "ac": 1,
+    "video_game_console": 1,
+    "private_parking_space_paid": 1,
+    "dishwasher": 1,
+    "bathrooms": 5,
+    "warehouse": 1,
+    "dryer": 1,
+    "bedrooms": 10,
+    "bbq": 1,
+    "toilets": 3,
+    "private_parking_space": 1,
+    "room_description": "Deneme bir iki ??",
+    "cinsiyet": 1,
+    "surface_area": 500,
+    "lift": 1,
+    "arac": 1,
+    "salon": 1,
+    "kirala": 1,
+    "computer": 1,
+    "baby_gear": 1,
+    "meydan": 1,
+    "avm": 1,
+    "sinema": 1,
+    "washing_machine": 1,
+    "tramway": "0",
+    "cigarette": true,
+    "address": {
+        "label": "London, Birle?ik Krall?k",
+        "list": [
+            "London",
+            "Birle?ik Krall?k"
+        ],
+        "placeId": "ChIJdd4hrwug2EcRmSrV3Vo6llI"
+    },
+    "dogayuruyusu": 1,
+    "bicycle_child": 1,
+    "private_garden": 1,
+    "baliktutma": 1,
+    "degisim": 1,
+    "muzeler": 1,
+    "bisiklet": 1,
+    "kayakyapma": 1,
+    "helalrestorant": 1,
+    "oyunparki": 1,
+    "user": {
+        "username": "kullanici1",
+        "id": "61d22c3189708a2d2aeeda1c"
+    },
+    "small": "1645038874635-61d22c3189708a2d2aeeda1c-0_small.jpg",
+    "placeId": "ChIJdd4hrwug2EcRmSrV3Vo6llI",
+    "okunmasayisi": 0,
+    "email": "kullanici1@gmail.com",
+    "createdAt": "2022-02-16T19:14:34.685Z",
+    "updatedAt": "2022-02-16T19:14:34.685Z",
+    "__v": 0
+}
+
+
+# Created at 2022-02-16T22:14:31.226
+Unexpected IOException with stream: 202
+
+# Created at 2022-02-16T22:14:31.227
+Unexpected IOException with stream: 
+
+
+# Created at 2022-02-16T22:14:31.229
+Unexpected IOException: 6,1,US_094\0009Bir kullan\0131c\0131 olarak "/api/rooms" sayfas\0131na "post" tipinde ba\011Fland\0131\011F\0131mda g\00F6nderilen bilgiler ile yeni bir oda de\011Fi\015Fimi ilan\0131 olu\015Fturabilmeylim.,TC_001_US_094_positive(US_094\0009Bir kullan\0131c\0131 olarak "/api/rooms" sayfas\0131na "post" tipinde ba\011Fland\0131\011F\0131mda g\00F6nderilen bilgiler ile yeni bir oda de\011Fi\015Fimi ilan\0131 olu\015Fturabilmeylim.),null,null,null
+
+
+# Created at 2022-02-16T22:14:31.230
+Unexpected IOException: 5,1,US_094\0009Bir kullan\0131c\0131 olarak "/api/rooms" sayfas\0131na "post" tipinde ba\011Fland\0131\011F\0131mda g\00F6nderilen bilgiler ile yeni bir oda de\011Fi\015Fimi ilan\0131 olu\015Fturabilmeylim.,TC_001_US_094_negative1 - without secret_token(US_094\0009Bir kullan\0131c\0131 olarak "/api/rooms" sayfas\0131na "post" tipinde ba\011Fland\0131\011F\0131mda g\00F6nderilen bilgiler ile yeni bir oda de\011Fi\015Fimi ilan\0131 olu\015Fturabilmeylim.),null,null,null
+
+
+# Created at 2022-02-16T22:14:32.514
+Unexpected IOException with stream: Unauthorized
+
+
+# Created at 2022-02-16T22:14:32.516
+Unexpected IOException with stream: 401
+
+# Created at 2022-02-16T22:14:32.518
+Unexpected IOException with stream: 
+
+
+# Created at 2022-02-16T22:14:32.520
+Unexpected IOException: 6,1,US_094\0009Bir kullan\0131c\0131 olarak "/api/rooms" sayfas\0131na "post" tipinde ba\011Fland\0131\011F\0131mda g\00F6nderilen bilgiler ile yeni bir oda de\011Fi\015Fimi ilan\0131 olu\015Fturabilmeylim.,TC_001_US_094_negative1 - without secret_token(US_094\0009Bir kullan\0131c\0131 olarak "/api/rooms" sayfas\0131na "post" tipinde ba\011Fland\0131\011F\0131mda g\00F6nderilen bilgiler ile yeni bir oda de\011Fi\015Fimi ilan\0131 olu\015Fturabilmeylim.),null,null,null
+
+
+# Created at 2022-02-16T22:14:32.522
+Unexpected IOException: 5,1,US_094\0009Bir kullan\0131c\0131 olarak "/api/rooms" sayfas\0131na "post" tipinde ba\011Fland\0131\011F\0131mda g\00F6nderilen bilgiler ile yeni bir oda de\011Fi\015Fimi ilan\0131 olu\015Fturabilmeylim.,TC_001_US_094_negative2 - without one required data #1(US_094\0009Bir kullan\0131c\0131 olarak "/api/rooms" sayfas\0131na "post" tipinde ba\011Fland\0131\011F\0131mda g\00F6nderilen bilgiler ile yeni bir oda de\011Fi\015Fimi ilan\0131 olu\015Fturabilmeylim.),null,null,null
+
+
+# Created at 2022-02-16T22:14:33.887
+Unexpected IOException with stream: {
+    "errors": {
+        "ac": {
+            "name": "ValidatorError",
+            "message": "Path `ac` is required.",
+            "properties": {
+                "message": "Path `ac` is required.",
+                "type": "required",
+                "path": "ac"
+            },
+            "kind": "required",
+            "path": "ac"
+        }
+    },
+    "_message": "Room validation failed",
+    "name": "ValidationError",
+    "message": "Room validation failed: ac: Path `ac` is required."
+}
+
+
+# Created at 2022-02-16T22:14:33.888
+Unexpected IOException with stream: 500
+
+# Created at 2022-02-16T22:14:33.889
+Unexpected IOException with stream: 
+
+
+# Created at 2022-02-16T22:14:33.890
+Unexpected IOException: 6,1,US_094\0009Bir kullan\0131c\0131 olarak "/api/rooms" sayfas\0131na "post" tipinde ba\011Fland\0131\011F\0131mda g\00F6nderilen bilgiler ile yeni bir oda de\011Fi\015Fimi ilan\0131 olu\015Fturabilmeylim.,TC_001_US_094_negative2 - without one required data #1(US_094\0009Bir kullan\0131c\0131 olarak "/api/rooms" sayfas\0131na "post" tipinde ba\011Fland\0131\011F\0131mda g\00F6nderilen bilgiler ile yeni bir oda de\011Fi\015Fimi ilan\0131 olu\015Fturabilmeylim.),null,null,null
+
+
+# Created at 2022-02-16T22:14:33.891
+Unexpected IOException: 5,1,US_094\0009Bir kullan\0131c\0131 olarak "/api/rooms" sayfas\0131na "post" tipinde ba\011Fland\0131\011F\0131mda g\00F6nderilen bilgiler ile yeni bir oda de\011Fi\015Fimi ilan\0131 olu\015Fturabilmeylim.,TC_001_US_094_negative2 - without one required data #2(US_094\0009Bir kullan\0131c\0131 olarak "/api/rooms" sayfas\0131na "post" tipinde ba\011Fland\0131\011F\0131mda g\00F6nderilen bilgiler ile yeni bir oda de\011Fi\015Fimi ilan\0131 olu\015Fturabilmeylim.),null,null,null
+
+
+# Created at 2022-02-16T22:14:35.117
+Unexpected IOException with stream: {
+    "errors": {
+        "bbq": {
+            "name": "ValidatorError",
+            "message": "Path `bbq` is required.",
+            "properties": {
+                "message": "Path `bbq` is required.",
+                "type": "required",
+                "path": "bbq"
+            },
+            "kind": "required",
+            "path": "bbq"
+        }
+    },
+    "_message": "Room validation failed",
+    "name": "ValidationError",
+    "message": "Room validation failed: bbq: Path `bbq` is required."
+}
+
+
+# Created at 2022-02-16T22:14:35.119
+Unexpected IOException with stream: 500
+
+# Created at 2022-02-16T22:14:35.122
+Unexpected IOException with stream: 
+
+
+# Created at 2022-02-16T22:14:35.125
+Unexpected IOException: 6,1,US_094\0009Bir kullan\0131c\0131 olarak "/api/rooms" sayfas\0131na "post" tipinde ba\011Fland\0131\011F\0131mda g\00F6nderilen bilgiler ile yeni bir oda de\011Fi\015Fimi ilan\0131 olu\015Fturabilmeylim.,TC_001_US_094_negative2 - without one required data #2(US_094\0009Bir kullan\0131c\0131 olarak "/api/rooms" sayfas\0131na "post" tipinde ba\011Fland\0131\011F\0131mda g\00F6nderilen bilgiler ile yeni bir oda de\011Fi\015Fimi ilan\0131 olu\015Fturabilmeylim.),null,null,null
+
+
+# Created at 2022-02-16T22:14:35.126
+Unexpected IOException: 5,1,US_094\0009Bir kullan\0131c\0131 olarak "/api/rooms" sayfas\0131na "post" tipinde ba\011Fland\0131\011F\0131mda g\00F6nderilen bilgiler ile yeni bir oda de\011Fi\015Fimi ilan\0131 olu\015Fturabilmeylim.,TC_001_US_094_negative2 - without one required data #3(US_094\0009Bir kullan\0131c\0131 olarak "/api/rooms" sayfas\0131na "post" tipinde ba\011Fland\0131\011F\0131mda g\00F6nderilen bilgiler ile yeni bir oda de\011Fi\015Fimi ilan\0131 olu\015Fturabilmeylim.),null,null,null
+
+
+# Created at 2022-02-16T22:14:36.489
+Unexpected IOException with stream: {
+    "errors": {
+        "private_garden": {
+            "name": "ValidatorError",
+            "message": "Path `private_garden` is required.",
+            "properties": {
+                "message": "Path `private_garden` is required.",
+                "type": "required",
+                "path": "private_garden"
+            },
+            "kind": "required",
+            "path": "private_garden"
+        }
+    },
+    "_message": "Room validation failed",
+    "name": "ValidationError",
+    "message": "Room validation failed: private_garden: Path `private_garden` is required."
+}
+
+
+# Created at 2022-02-16T22:14:36.491
+Unexpected IOException with stream: 500
+
+# Created at 2022-02-16T22:14:36.493
+Unexpected IOException with stream: 
+
+
+# Created at 2022-02-16T22:14:36.499
+Unexpected IOException: 6,1,US_094\0009Bir kullan\0131c\0131 olarak "/api/rooms" sayfas\0131na "post" tipinde ba\011Fland\0131\011F\0131mda g\00F6nderilen bilgiler ile yeni bir oda de\011Fi\015Fimi ilan\0131 olu\015Fturabilmeylim.,TC_001_US_094_negative2 - without one required data #3(US_094\0009Bir kullan\0131c\0131 olarak "/api/rooms" sayfas\0131na "post" tipinde ba\011Fland\0131\011F\0131mda g\00F6nderilen bilgiler ile yeni bir oda de\011Fi\015Fimi ilan\0131 olu\015Fturabilmeylim.),null,null,null
+
+
+# Created at 2022-02-16T22:14:36.502
+Unexpected IOException: 5,1,US_094\0009Bir kullan\0131c\0131 olarak "/api/rooms" sayfas\0131na "post" tipinde ba\011Fland\0131\011F\0131mda g\00F6nderilen bilgiler ile yeni bir oda de\011Fi\015Fimi ilan\0131 olu\015Fturabilmeylim.,TC_001_US_094_negative2 - without one required data #4(US_094\0009Bir kullan\0131c\0131 olarak "/api/rooms" sayfas\0131na "post" tipinde ba\011Fland\0131\011F\0131mda g\00F6nderilen bilgiler ile yeni bir oda de\011Fi\015Fimi ilan\0131 olu\015Fturabilmeylim.),null,null,null
+
+
+# Created at 2022-02-16T22:14:37.813
+Unexpected IOException with stream: {
+    "errors": {
+        "computer": {
+            "name": "ValidatorError",
+            "message": "Path `computer` is required.",
+            "properties": {
+                "message": "Path `computer` is required.",
+                "type": "required",
+                "path": "computer"
+            },
+            "kind": "required",
+            "path": "computer"
+        }
+    },
+    "_message": "Room validation failed",
+    "name": "ValidationError",
+    "message": "Room validation failed: computer: Path `computer` is required."
+}
+
+
+# Created at 2022-02-16T22:14:37.814
+Unexpected IOException with stream: 500
+
+# Created at 2022-02-16T22:14:37.816
+Unexpected IOException with stream: 
+
+
+# Created at 2022-02-16T22:14:37.818
+Unexpected IOException: 6,1,US_094\0009Bir kullan\0131c\0131 olarak "/api/rooms" sayfas\0131na "post" tipinde ba\011Fland\0131\011F\0131mda g\00F6nderilen bilgiler ile yeni bir oda de\011Fi\015Fimi ilan\0131 olu\015Fturabilmeylim.,TC_001_US_094_negative2 - without one required data #4(US_094\0009Bir kullan\0131c\0131 olarak "/api/rooms" sayfas\0131na "post" tipinde ba\011Fland\0131\011F\0131mda g\00F6nderilen bilgiler ile yeni bir oda de\011Fi\015Fimi ilan\0131 olu\015Fturabilmeylim.),null,null,null
+
+
+# Created at 2022-02-16T22:14:37.819
+Unexpected IOException: 5,1,US_094\0009Bir kullan\0131c\0131 olarak "/api/rooms" sayfas\0131na "post" tipinde ba\011Fland\0131\011F\0131mda g\00F6nderilen bilgiler ile yeni bir oda de\011Fi\015Fimi ilan\0131 olu\015Fturabilmeylim.,TC_001_US_094_negative2 - without one required data #5(US_094\0009Bir kullan\0131c\0131 olarak "/api/rooms" sayfas\0131na "post" tipinde ba\011Fland\0131\011F\0131mda g\00F6nderilen bilgiler ile yeni bir oda de\011Fi\015Fimi ilan\0131 olu\015Fturabilmeylim.),null,null,null
+
+
+# Created at 2022-02-16T22:14:39.039
+Unexpected IOException with stream: {
+    "errors": {
+        "baby_gear": {
+            "name": "ValidatorError",
+            "message": "Path `baby_gear` is required.",
+            "properties": {
+                "message": "Path `baby_gear` is required.",
+                "type": "required",
+                "path": "baby_gear"
+            },
+            "kind": "required",
+            "path": "baby_gear"
+        }
+    },
+    "_message": "Room validation failed",
+    "name": "ValidationError",
+    "message": "Room validation failed: baby_gear: Path `baby_gear` is required."
+}
+
+
+# Created at 2022-02-16T22:14:39.040
+Unexpected IOException with stream: 500
+
+# Created at 2022-02-16T22:14:39.042
+Unexpected IOException with stream: 
+
+
+# Created at 2022-02-16T22:14:39.044
+Unexpected IOException: 6,1,US_094\0009Bir kullan\0131c\0131 olarak "/api/rooms" sayfas\0131na "post" tipinde ba\011Fland\0131\011F\0131mda g\00F6nderilen bilgiler ile yeni bir oda de\011Fi\015Fimi ilan\0131 olu\015Fturabilmeylim.,TC_001_US_094_negative2 - without one required data #5(US_094\0009Bir kullan\0131c\0131 olarak "/api/rooms" sayfas\0131na "post" tipinde ba\011Fland\0131\011F\0131mda g\00F6nderilen bilgiler ile yeni bir oda de\011Fi\015Fimi ilan\0131 olu\015Fturabilmeylim.),null,null,null
+
+
+# Created at 2022-02-16T22:14:39.046
+Unexpected IOException: 5,1,US_094\0009Bir kullan\0131c\0131 olarak "/api/rooms" sayfas\0131na "post" tipinde ba\011Fland\0131\011F\0131mda g\00F6nderilen bilgiler ile yeni bir oda de\011Fi\015Fimi ilan\0131 olu\015Fturabilmeylim.,TC_001_US_094_negative2 - without one required data #6(US_094\0009Bir kullan\0131c\0131 olarak "/api/rooms" sayfas\0131na "post" tipinde ba\011Fland\0131\011F\0131mda g\00F6nderilen bilgiler ile yeni bir oda de\011Fi\015Fimi ilan\0131 olu\015Fturabilmeylim.),null,null,null
+
+
+# Created at 2022-02-16T22:14:40.614
+Unexpected IOException with stream: {
+    "errors": {
+        "microwave_oven": {
+            "name": "ValidatorError",
+            "message": "Path `microwave_oven` is required.",
+            "properties": {
+                "message": "Path `microwave_oven` is required.",
+                "type": "required",
+                "path": "microwave_oven"
+            },
+            "kind": "required",
+            "path": "microwave_oven"
+        }
+    },
+    "_message": "Room validation failed",
+    "name": "ValidationError",
+    "message": "Room validation failed: microwave_oven: Path `microwave_oven` is required."
+}
+
+
+# Created at 2022-02-16T22:14:40.615
+Unexpected IOException with stream: 500
+
+# Created at 2022-02-16T22:14:40.617
+Unexpected IOException with stream: 
+
+
+# Created at 2022-02-16T22:14:40.620
+Unexpected IOException: 6,1,US_094\0009Bir kullan\0131c\0131 olarak "/api/rooms" sayfas\0131na "post" tipinde ba\011Fland\0131\011F\0131mda g\00F6nderilen bilgiler ile yeni bir oda de\011Fi\015Fimi ilan\0131 olu\015Fturabilmeylim.,TC_001_US_094_negative2 - without one required data #6(US_094\0009Bir kullan\0131c\0131 olarak "/api/rooms" sayfas\0131na "post" tipinde ba\011Fland\0131\011F\0131mda g\00F6nderilen bilgiler ile yeni bir oda de\011Fi\015Fimi ilan\0131 olu\015Fturabilmeylim.),null,null,null
+
+
+# Created at 2022-02-16T22:14:40.622
+Unexpected IOException: 5,1,US_094\0009Bir kullan\0131c\0131 olarak "/api/rooms" sayfas\0131na "post" tipinde ba\011Fland\0131\011F\0131mda g\00F6nderilen bilgiler ile yeni bir oda de\011Fi\015Fimi ilan\0131 olu\015Fturabilmeylim.,TC_001_US_094_negative2 - without one required data #7(US_094\0009Bir kullan\0131c\0131 olarak "/api/rooms" sayfas\0131na "post" tipinde ba\011Fland\0131\011F\0131mda g\00F6nderilen bilgiler ile yeni bir oda de\011Fi\015Fimi ilan\0131 olu\015Fturabilmeylim.),null,null,null
+
+
+# Created at 2022-02-16T22:14:41.952
+Unexpected IOException with stream: {
+    "errors": {
+        "washing_machine": {
+            "name": "ValidatorError",
+            "message": "Path `washing_machine` is required.",
+            "properties": {
+                "message": "Path `washing_machine` is required.",
+                "type": "required",
+                "path": "washing_machine"
+            },
+            "kind": "required",
+            "path": "washing_machine"
+        }
+    },
+    "_message": "Room validation failed",
+    "name": "ValidationError",
+    "message": "Room validation failed: washing_machine: Path `washing_machine` is required."
+}
+
+
+# Created at 2022-02-16T22:14:41.952
+Unexpected IOException with stream: 500
+
+# Created at 2022-02-16T22:14:41.953
+Unexpected IOException with stream: 
+
+
+# Created at 2022-02-16T22:14:41.956
+Unexpected IOException: 6,1,US_094\0009Bir kullan\0131c\0131 olarak "/api/rooms" sayfas\0131na "post" tipinde ba\011Fland\0131\011F\0131mda g\00F6nderilen bilgiler ile yeni bir oda de\011Fi\015Fimi ilan\0131 olu\015Fturabilmeylim.,TC_001_US_094_negative2 - without one required data #7(US_094\0009Bir kullan\0131c\0131 olarak "/api/rooms" sayfas\0131na "post" tipinde ba\011Fland\0131\011F\0131mda g\00F6nderilen bilgiler ile yeni bir oda de\011Fi\015Fimi ilan\0131 olu\015Fturabilmeylim.),null,null,null
+
+
+# Created at 2022-02-16T22:14:41.958
+Unexpected IOException: 5,1,US_094\0009Bir kullan\0131c\0131 olarak "/api/rooms" sayfas\0131na "post" tipinde ba\011Fland\0131\011F\0131mda g\00F6nderilen bilgiler ile yeni bir oda de\011Fi\015Fimi ilan\0131 olu\015Fturabilmeylim.,TC_001_US_094_negative2 - without one required data #8(US_094\0009Bir kullan\0131c\0131 olarak "/api/rooms" sayfas\0131na "post" tipinde ba\011Fland\0131\011F\0131mda g\00F6nderilen bilgiler ile yeni bir oda de\011Fi\015Fimi ilan\0131 olu\015Fturabilmeylim.),null,null,null
+
+
+# Created at 2022-02-16T22:14:43.244
+Unexpected IOException with stream: {
+    "errors": {
+        "private_parking_space": {
+            "name": "ValidatorError",
+            "message": "Path `private_parking_space` is required.",
+            "properties": {
+                "message": "Path `private_parking_space` is required.",
+                "type": "required",
+                "path": "private_parking_space"
+            },
+            "kind": "required",
+            "path": "private_parking_space"
+        }
+    },
+    "_message": "Room validation failed",
+    "name": "ValidationError",
+    "message": "Room validation failed: private_parking_space: Path `private_parking_space` is required."
+}
+
+
+# Created at 2022-02-16T22:14:43.245
+Unexpected IOException with stream: 500
+
+# Created at 2022-02-16T22:14:43.246
+Unexpected IOException with stream: 
+
+
+# Created at 2022-02-16T22:14:43.248
+Unexpected IOException: 6,1,US_094\0009Bir kullan\0131c\0131 olarak "/api/rooms" sayfas\0131na "post" tipinde ba\011Fland\0131\011F\0131mda g\00F6nderilen bilgiler ile yeni bir oda de\011Fi\015Fimi ilan\0131 olu\015Fturabilmeylim.,TC_001_US_094_negative2 - without one required data #8(US_094\0009Bir kullan\0131c\0131 olarak "/api/rooms" sayfas\0131na "post" tipinde ba\011Fland\0131\011F\0131mda g\00F6nderilen bilgiler ile yeni bir oda de\011Fi\015Fimi ilan\0131 olu\015Fturabilmeylim.),null,null,null
+
+
+# Created at 2022-02-16T22:14:43.249
+Unexpected IOException: 5,1,US_094\0009Bir kullan\0131c\0131 olarak "/api/rooms" sayfas\0131na "post" tipinde ba\011Fland\0131\011F\0131mda g\00F6nderilen bilgiler ile yeni bir oda de\011Fi\015Fimi ilan\0131 olu\015Fturabilmeylim.,TC_001_US_094_negative2 - without one required data #9(US_094\0009Bir kullan\0131c\0131 olarak "/api/rooms" sayfas\0131na "post" tipinde ba\011Fland\0131\011F\0131mda g\00F6nderilen bilgiler ile yeni bir oda de\011Fi\015Fimi ilan\0131 olu\015Fturabilmeylim.),null,null,null
+
+

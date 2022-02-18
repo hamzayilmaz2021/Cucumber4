@@ -1,12 +1,16 @@
 C:\Users\ceng\Desktop\Cucumber4\src\test\java\step_definitions\US27_StepDef.java
+C:\Users\ceng\Desktop\Cucumber4\src\test\java\step_definitions\US93_StepDef.java
 C:\Users\ceng\Desktop\Cucumber4\src\test\java\utilities\ConfigurationReader.java
 C:\Users\ceng\Desktop\Cucumber4\src\test\java\pages\SignupPage.java
+C:\Users\ceng\Desktop\Cucumber4\src\test\java\step_definitions\US94_StepDef.java
+C:\Users\ceng\Desktop\Cucumber4\src\test\java\step_definitions\US31_StepDef.java
 C:\Users\ceng\Desktop\Cucumber4\src\test\java\pages\BasePage.java
 C:\Users\ceng\Desktop\Cucumber4\src\test\java\pages\NewHomePage.java
 C:\Users\ceng\Desktop\Cucumber4\src\test\java\utilities\ExcelUtil.java
 C:\Users\ceng\Desktop\Cucumber4\src\test\java\step_definitions\US22_StepDef.java
 C:\Users\ceng\Desktop\Cucumber4\src\test\java\pages\ForgotPasswordPage.java
 C:\Users\ceng\Desktop\Cucumber4\src\test\java\step_definitions\US07_StepDef.java
+C:\Users\ceng\Desktop\Cucumber4\src\test\java\step_definitions\US96_StepDef.java
 C:\Users\ceng\Desktop\Cucumber4\src\test\java\utilities\BrowserUtilities.java
 C:\Users\ceng\Desktop\Cucumber4\src\test\java\pages\HomePage.java
 C:\Users\ceng\Desktop\Cucumber4\src\test\java\pages\LoginPage.java
@@ -14,5 +18,7 @@ C:\Users\ceng\Desktop\Cucumber4\src\test\java\step_definitions\US53_StepDef.java
 C:\Users\ceng\Desktop\Cucumber4\src\test\java\step_definitions\Hooks.java
 C:\Users\ceng\Desktop\Cucumber4\src\test\java\step_definitions\US12_StepDef.java
 C:\Users\ceng\Desktop\Cucumber4\src\test\java\utilities\Driver.java
+C:\Users\ceng\Desktop\Cucumber4\src\test\java\step_definitions\DenemeAPI.java
 C:\Users\ceng\Desktop\Cucumber4\src\test\java\runners\Runner.java
+C:\Users\ceng\Desktop\Cucumber4\src\test\java\step_definitions\US82_StepDef.java
 C:\Users\ceng\Desktop\Cucumber4\src\test\java\step_definitions\US55_StepDef.java

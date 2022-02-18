@@ -1,5 +1,6 @@
 package step_definitions;
 
+import org.junit.BeforeClass;
 import utilities.BrowserUtilities;
 import utilities.Driver;
 import io.cucumber.java.After;
@@ -12,6 +13,7 @@ import org.openqa.selenium.TakesScreenshot;
 import java.util.concurrent.TimeUnit;
 
 public class Hooks {
+
     @Before("@ui")
     public void setUp(){
 

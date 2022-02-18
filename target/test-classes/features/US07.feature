@@ -1,6 +1,6 @@
 @ui
 Feature: US_007	Bir kullanıcı olarak ana sayfaya girdiğimde, "Popüler İlanlar" bölümünü görebilmeliyim.
-
+  mvn test -Dcucumber.options="--tags @smoke"
   Background:
     Given user goes to "https://kese.nl" page
 

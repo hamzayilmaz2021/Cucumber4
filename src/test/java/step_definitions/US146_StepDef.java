@@ -18,7 +18,7 @@ import java.util.List;
 
 import static io.restassured.RestAssured.given;
 
-public class US145_StepDef {
+public class US146_StepDef {
 
     Response response = null;
     RequestSpecification spec = new RequestSpecBuilder().

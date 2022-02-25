@@ -21,14 +21,13 @@ public class US175_StepDef {
         String uri = "mongodb+srv://deneme:1234@cluster0.owokn.mongodb.net/myFirstDatabase?retryWrites=true&w=majority";
         MongoClient mongoClient = MongoClients.create(uri);
         database = mongoClient.getDatabase("myFirstDatabase");
-
     }
 
     @And("user gets the yetkili list")
     public void userGetsTheYetkiliList() {
-        kullanicilar = database.getCollection("kullanicis");
+        kullanicilar = database.getCollection("kullanicis"); //homes
 
-        yetkiliKullanicilar = kullanicilar.find(eq("rol", "yetkili"));
+        yetkiliKullanicilar = kullanicilar.find(eq("rol", "yetkili")); // approval 0 1
 
         if (yetkiliKullanicilar == null) {
             System.out.println("No results found.");
@@ -44,7 +43,6 @@ public class US175_StepDef {
         referanslar = database.getCollection("references");
 
         for(Document user : yetkiliKullanicilar){
-
             FindIterable<Document> list = referanslar.find(eq("reference_member", user.get("email")));
 
             int toplam = 0;

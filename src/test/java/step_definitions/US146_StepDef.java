@@ -9,7 +9,6 @@ import io.restassured.specification.RequestSpecification;
 import org.json.JSONObject;
 import org.junit.Assert;
 import utilities.ConfigurationReader;
-
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Date;

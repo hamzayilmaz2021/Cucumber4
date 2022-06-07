@@ -2,6 +2,7 @@ package step_definitions;
 
 import io.cucumber.java.en.And;
 import org.junit.Assert;
+import pages.ForgotPasswordPage;
 import pages.NewHomePage;
 
 public class US31_StepDef {

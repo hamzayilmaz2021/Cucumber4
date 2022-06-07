@@ -8,7 +8,10 @@ import io.restassured.response.Response;
 import io.restassured.specification.RequestSpecification;
 import org.json.JSONObject;
 import org.junit.Assert;
+import org.openqa.selenium.By;
 import utilities.ConfigurationReader;
+import utilities.Driver;
+
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
@@ -38,6 +41,7 @@ public class US146_StepDef {
 
     @Then("user verifies the list is sorted us one hundread fourty five")
     public void userVerifiesTheListIsSortedUsOneHundreadFourtyFive() throws ParseException {
+
         List<LinkedHashMap> list = response.jsonPath().get("$");
 
         JSONObject json = new JSONObject(list.get(0));

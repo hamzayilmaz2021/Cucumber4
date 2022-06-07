@@ -16,3 +16,6 @@ import org.junit.runner.RunWith;
 public class Runner {
 
 }
+
+// JDBC => Bir Kütüphane
+// SQL komutlarının çalıştırılması
